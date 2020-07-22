@@ -1,6 +1,78 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="INFOTAINMENT", BBC EARTH (2)
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="INFOTAINMENT", FYI TV 18
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="INFOTAINMENT", NGC
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT", NAT GEO WILD
+https://edge01.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT", NAT GEO WILD HD
+https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT", ANIMAL PLANET
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT", ANIMAL PLANET (CHINESE)
+http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJsKR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="INFOTAINMENT", NAT GEO PEOPLE
+https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT", TLC HD (2)
+https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="INFOTAINMENT", History TV HD
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="INFOTAINMENT", FOX Life
+https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="INFOTAINMENT", BBC Lifestyle
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INFOTAINMENT", RT Documentary
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VOo8xzE.jpg" group-title="INFOTAINMENT", YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfJJvAO.jpg" group-title="INFOTAINMENT", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="INFOTAINMENT", BBC EARTH (2)
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="INFOTAINMENT", FYI TV 18
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="INFOTAINMENT", Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg/150px-Food_Food_%28TV_Channel%29_Logo.jpg" group-title="INFOTAINMENT", FOOD FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="INFOTAINMENT", Food Network
+http://ott-cdn.ucom.am/s18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="INFOTAINMENT", Create & Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="INFOTAINMENT", BBC EARTH (2)
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="INFOTAINMENT", FYI TV 18
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="INFOTAINMENT", NGC
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC 2", Sony Aath
 http://103.205.133.14/hls/sony8.m3u8
