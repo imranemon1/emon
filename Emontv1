@@ -1,5 +1,89 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES", MBC MAX HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES", MBC MAX FHD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 FHD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES", MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES", MBC Action FHD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES", & Flix HD (1)
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH MOVIES", & Prive HD (2)
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO (4)
+http://otv.ftpbd.net/streams/111/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES", Movies Now (1)
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES", Movies Now (2)
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES", MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="ENGLISH MOVIES", ROMEDY NOW
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES", LOTUS MACAU
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E932mKv.jpg" group-title="ENGLISH MOVIES", Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="ENGLISH MOVIES", AlFajer MOVIE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="ENGLISH MOVIES", FOX Action Movies (1)
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="ENGLISH MOVIES", FOX Action Movies (2)
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="ENGLISH MOVIES", FOX Movies
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES", Hollywood TV
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="ENGLISH MOVIES", Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="ENGLISH MOVIES", 24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKFgFNS.png" group-title="ENGLISH MOVIES", Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="ENGLISH MOVIES", Film 4
+http://51.52.156.22:8888/http/008
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="ENGLISH MOVIES", Sony Movies Action
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSFsCqx.jpg" group-title="ENGLISH MOVIES", MGM SciFi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="ENGLISH MOVIES", THRILL HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES", MBC MAX HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Picture HD (1)
 http://103.205.133.19/hls/andpicture.m3u8
 
