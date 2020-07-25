@@ -1,0 +1,86 @@
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Others", Premier Football 2
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Others", Premier Football 3
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Others", Premier Football 5
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Others", Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="Others", Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="Others", Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bme0WkM.png" group-title="Others", Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="Others", ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others", Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GGs09Uf.png" group-title="Others", Spike TV
+http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", Hollywood HD
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="Others", Warner Bros TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="Others", AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgJnopD.png" group-title="Others", Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Others", Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others", KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Others", NHK World Japan
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="Others", Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Others", Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="Others", AXN
+http://45.126.83.51/dr9445/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageb9611374cd00855f.png" group-title="Others", E!
+http://45.126.83.51/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJ2ipoh.png" group-title="Others", Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="Others", Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YW4YdfC.png" group-title="Others", AnTV
+http://45.126.83.51/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eIDDCKU.png" group-title="Others", Euro News
+http://45.126.83.51/qwr9ew/s/s15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="Others", Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOm2DSe.png" group-title="Others", RT News
+http://45.126.83.51/qwr9ew/s/s23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1ItE8H.png" group-title="Others", TBN Asia
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kF4IuuV.png" group-title="Others", V Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
