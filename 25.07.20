@@ -19,3 +19,5 @@ http://otv.ftpbd.net/streams/109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="FTPBD", HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="AMRBD LIVE", Zee Bangla Cinema [IN]
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
