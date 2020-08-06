@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="JADOO LIVE", Sangsad TV [BD]
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
@@ -251,3 +248,26 @@ https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Skpuwez.png" group-title="JADOO LIVE", Rai Italia
 https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="FTPBD", Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="FTPBD", HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="AMRBD LIVE", Zee Bangla Cinema [IN]
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="FTPBD", Star Sports 1
+http://otv.ftpbd.net/streams/104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="FTPBD", Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="FTPBD", Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="FTPBD", Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="EBox2", Sony TV
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+
+
