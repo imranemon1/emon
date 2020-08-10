@@ -1,0 +1,715 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 71 Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/86.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asian Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/91.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/204.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN News
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/221.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boishakhi TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/219.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangla Vision
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/94.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel 24
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel 9
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/106.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deepto TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/205.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Desh Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/176.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/108.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ekushey Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/113.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gaan Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/121.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gazi
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/122.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/124.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History 18
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/128.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jalsha Movies
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/203.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jamuna Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/129.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Masranga
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel I
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/643.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sangeet Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/644.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Duronto
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/645.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DBC News
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/646.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MyTv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/647.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independent
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/648.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Atn Music
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/649.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV Music
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/650.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MNX
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/134.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nagorik
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/136.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", News 24
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/141.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NTv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/142.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/145.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SATV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/220.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Skynews
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/210.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Somoy
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Aath
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/191.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Max
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/868.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony MAX HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/147.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Pix
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/149.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/661.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Select 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/212.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Select 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/198.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/150.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/196.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 3
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/197.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Six
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/185.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ptv Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/660.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Cricket
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/753.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Football
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/194.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Jalsha HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/193.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Jalsha
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/863.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Action
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/181.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Anmol
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/192.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Bangla HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/865.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cinema
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/182.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cinema HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/824.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee ClassIc
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/189.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/217.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee TV HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/780.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Box Hits
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/167.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/148.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RetroTv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/168.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &Flix
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/634.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/636.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cafe
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/637.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &Pictures
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/638.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount Comedy
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/164.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", & Prive HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/829.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Movies
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/119.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ten Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/786.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Real Madrid
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/639.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/88.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC News
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/95.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", D Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/107.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai One
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/211.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO US
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/735.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Starz
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/736.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Home (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/123.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/163.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN Sports 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/641.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN Sports 3
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/642.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinema World (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/156.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Rocks
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/662.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/92.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blue Ant Entertainment
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/215.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hits
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/101.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Movie Universe
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/223.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U Movies
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/651.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blue Ant Extreme
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/216.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music India
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/653.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mastiii
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/654.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jhanjar Music
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/655.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pop Pataka
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/656.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/89.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U Plus
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/180.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/105.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Dance
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/160.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/184.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/867.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/161.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Plus
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/152.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UTV Movies
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/830.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Thrill
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/100.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VIVA
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/166.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Warner
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/157.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True sports 1 Premeire
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/96.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U Music
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/93.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Two
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/97.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", beIN Sports 11
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/199.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CI
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/114.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Channel
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/111.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Junior
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/202.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FC Bayern Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/120.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ID
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/115.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv Hits
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/162.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Movies
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/151.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount Channel (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/633.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Cineplex
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/206.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Rishtey
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/207.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SyFy
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/169.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVCine Top
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/174.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV1000 (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/154.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV1000 Action (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/155.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", H2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/127.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic (dual language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/138.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star World
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/153.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony turbo (Dual Language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/837.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY WAH
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/782.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Smile
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/802.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Sci-Fi (Dual Language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/855.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony TV International (dual audio)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/861.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zing
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/183.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zoom
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/159.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BTV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/663.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BTV World
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/664.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangla TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/665.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jalsha Movies HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/666.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Bangla Cinema
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/667.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film 4
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/670.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV5 Monde Asie
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/682.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Saudi TV 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/685.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Al Arabia
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/686.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Earth
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/687.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HGTV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/699.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Travel TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/690.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 4K TV Showcase
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/692.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Living Foodz
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/695.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RT Documentary
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/697.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", YTN Science
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/698.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Home&Living
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/701.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Docu Box
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/702.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Xcorps
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/704.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TMZ
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/689.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NASA TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/706.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asian Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/91.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/204.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN News
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/221.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boishakhi TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/219.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azan TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/711.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ITV USA
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/712.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN Islam
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/713.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Islam Channel
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/715.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ANIMAX
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/716.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AniPlus
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/717.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Euro Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/718.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Olympic Channel
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/719.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 9xM
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/721.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Weather Channel
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/723.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNBC
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/725.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lotus Macau
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/731.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mtv Live
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/733.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Sports 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/737.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Sports 4
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/738.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Racing
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/739.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/740.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FTV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/742.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WF
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/746.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HD Fashion & LifeStyle
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/748.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CGTN Documentary
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/749.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Celestial Movies
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/752.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MATCH FUTBOL
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/755.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Match sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/853.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Asia
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/854.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DD Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/788.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fight Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/758.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Red Bull Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/759.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arirang
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/763.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cine Film
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/764.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sharjah Sport
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/768.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mohona Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/769.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ananda Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/770.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bijoy Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/771.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", K+
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/772.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rai Premium
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/773.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Bharat
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/774.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hum Sitaray
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/777.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUBLIC MUSIC
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/789.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Voice of America
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/791.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GEO news
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/793.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TIMES NOW
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/794.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DD Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/800.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ruposhi Bangla
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Geo Kahini
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/803.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOL Entertainment
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/804.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Public News
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/805.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Geo News
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/806.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Geo Entertainment
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/807.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Express Entertainment
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/809.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dunya
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/810.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 8X Music
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/811.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Humraz TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/813.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MAHA MOVIE
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", itv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/817.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", itv2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/818.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", itv3
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/819.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", itv4
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/820.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Hits
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/833.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FILM Thriller
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/835.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA-WWE
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/841.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HDL HD (dual language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/842.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ULTO
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/844.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Spike
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/848.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Family
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/849.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hollywood HD
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/850.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ren Tv
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/852.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Viasat Sport
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/720.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Viasat Nature (dual language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/856.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Viasat Explore (dual language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/857.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Viasat History (dual language)
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/858.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VIP Comedy
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/859.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VIP Premiere
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/860.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", California Music Channel TV
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/862.m3u8
