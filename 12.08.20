@@ -1,0 +1,35 @@
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Pix
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/149.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/661.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Select 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/212.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Select 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/198.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 1
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/150.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 2
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/196.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 3
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/197.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Six
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/185.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ptv Sports
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/660.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Cricket
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/753.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Football
+http://bdvisioniptv.ddns.net:25461/live/sajid/3938/194.m3u8
