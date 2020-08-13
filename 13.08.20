@@ -1,0 +1,295 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SOMOY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/14.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/9.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JAMUNA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/13.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GAZI TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/6.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GAAN BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/69.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EKUSHEY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/15.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHANNEL 9
+http://iptv.kitv.live:1935/live/Shari/MTV-P/7.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHANNEL 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/16.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/11.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BANGLA VISION
+http://iptv.kitv.live:1935/live/Shari/MTV-P/17.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EKATTOR TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/2.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", INDEPENDENT TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/12.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR JALSHA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZING
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/28.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE CINEMA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/29.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TRAVEL XP HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/45.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR UTSAV MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/37.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR SPORTS 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR PLUS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/27.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/9.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY YAY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/66.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/50.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/26.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY ESPN
+http://iptv.kitv.live:1935/live/Shari/MTV-P/48.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY AATH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SETMAX HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SATV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/8.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SANGEET BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/70.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PTV Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/67.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAGORIK TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/3.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSIC MASTI
+http://iptv.kitv.live:1935/live/Shari/MTV-P/78.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSIC INDIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSIC BOX
+http://iptv.kitv.live:1935/live/Shari/MTV-P/89.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/75.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MN HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/38.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Manoranjan Movies
+http://iptv.kitv.live:1935/live/Shari/MTV-P/108.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lifetime
+http://iptv.kitv.live:1935/live/Shari/MTV-P/85.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kolkata TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/59.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JALWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/82.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JALSHA MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hum Sitaray
+http://iptv.kitv.live:1935/live/Shari/MTV-P/34.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hum Masala
+http://iptv.kitv.live:1935/live/Shari/MTV-P/33.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History 2
+http://iptv.kitv.live:1935/live/Shari/MTV-P/86.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/73.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/83.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DW
+http://iptv.kitv.live:1935/live/Shari/MTV-P/101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DURONTO TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/63.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DSPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISENY CARTOON
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY ENGLISH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/61.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DEPTO BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/5.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DD BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/57.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLORS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/30.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHANNEL I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/4.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARTOON NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/19.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bflix MOVIE
+http://iptv.kitv.live:1935/live/Shari/MTV-P/35.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC WORLD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/56.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Lifestyle
+http://iptv.kitv.live:1935/live/Shari/MTV-P/46.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC EARTH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U MUSIC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/79.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/42.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/10.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Aljazeera HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/58.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AKASH AATH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/98.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 9X JALWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 8XM
+http://iptv.kitv.live:1935/live/Shari/MTV-P/72.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &Flix
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Shakuntala Devi
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/125.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Greyhound
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/124.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SOMOY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/14.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/9.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JAMUNA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/13.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GAZI TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/6.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Eye in the Sky
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/122.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Descendants 3
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/120.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: The Old Guard
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/118.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Den of Thieves
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/117.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: 365 Days
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/116.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Safe
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/115.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Underwater
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/114.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: The Scorpion King-Book of Souls
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/113.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Son of God
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/111.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Angel Has Fallen
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/112.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Commando 3
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/110.MP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOD: Baaghi 3
+http://iptv.kitv.live:1935/movie/Shari/MTV-P/109.MP4
