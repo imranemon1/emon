@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC 2", Sony Ten 2
+http://103.205.133.14/hls/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC 3", Sony Ten 2
+http://103.205.133.19/hls/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="EBox2", Sony Ten 2 HD
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="FTPBD", Sony Ten 2 HD
+http://otv.ftpbd.net/streams/112/index.m3u8
