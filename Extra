@@ -1,0 +1,223 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="KS", Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="KS", ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="KS", ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="JADOO LIVE", BANGLA VISION [BD]
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="ICC 2", Bangla TV
+http://103.205.133.14/hls/banglatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="KS", Boishakhi
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="KS", BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="KS", CHANNEL 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="JADOO LIVE", CHANNEL I [BD]
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="KS", DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KS", Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="ICC 2", Desh TV
+http://103.205.133.14/hls/deshtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="KS", Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 2", Ekushey TV
+http://103.205.133.14/hls/ekushey.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="KS", Gaan Bangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Jadoo", GTV
+http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="KS", Independent
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="ICC 2", JAMUNA TV
+http://103.205.133.14/hls/jamunatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="KS", Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="KS", MOHONA TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="KS", MY TV
+https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="ICC 2", Nagorik TV
+http://103.205.133.14/hls/nagorik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="KS", News 24
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="KS", NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="KS", RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="KS", Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="KS", SATV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="KS", Shomoy TV
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="KS", Star Jalsha HD
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Akamai", Star Jalsha
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="KS", Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="KS", Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="KS", Colors Bangla HD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image97e9a86cc3e3991d.png" group-title="KS", Tara Bangla
+https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC 2", Sony Aath
+http://103.205.133.14/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="KS", SangeetBangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="ICC 2", Sony Six HD
+http://103.205.133.14/hls/sonysix.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="ICC 2", Sony Ten 1
+http://103.205.133.14/hls/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC 2", Sony Ten 2
+http://103.205.133.14/hls/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="ICC 2", Sony Ten 3
+http://103.205.133.14/hls/ten3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ICC 2", Sony Pix
+http://103.205.133.14/hls/sonypix.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="KS", ZEE TV SD
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="KS", Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="KS", Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="KS", Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="KS", Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="KS", Star Gold HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="KS", Star Gold International
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="KS", Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="KS", Star Gold 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="KS", Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="KS", Colors Rishtey
+https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="KS", Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="KS", TLC HD English
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KS", Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Jadoo", Nick HD+
+https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="KS", Cheebies Asia
+https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="KS", Comedy Central
+https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="KS", Movies Now
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="KS", Lotus Macaw
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="KS", Manoranjan Movies
+https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC 2", & TV
+http://103.205.133.14/hls/andtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="KS", PTV Global
+https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef40c0b94aea582b2.png" group-title="KS", PTV Home
+https://itpolly.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="KS", PTV News
+https://itpolly.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K202Z16.png" group-title="KS", PTV World
+https://itpolly.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="KS", Hum Masala
+https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC 2", 9XM
+http://103.205.133.14/hls/9xm.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OckuFU2.png" group-title="KS", Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="KS", ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="KS", ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="JADOO LIVE", BANGLA VISION [BD]
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="ICC 2", Bangla TV
+http://103.205.133.14/hls/banglatv.m3u8
