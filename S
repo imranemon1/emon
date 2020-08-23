@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 1
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 2
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 3
+http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 4
+http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 5
+http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 1 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2276.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 2 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2277.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 3 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2278.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 4 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2279.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 5 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2280.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 1 **
+http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 2 **
+http://fariszah.myq-see.com:8008/live/demo/demo/2309.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 3 **
+http://fariszah.myq-see.com:8008/live/demo/demo/2310.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 4 **
+http://fariszah.myq-see.com:8008/live/demo/demo/2311.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS 5 **
+http://fariszah.myq-see.com:8008/live/demo/demo/2313.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", IN: SONY TEN 3
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
