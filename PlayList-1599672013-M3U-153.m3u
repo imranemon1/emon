@@ -1,0 +1,161 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS", TITAS SPORTS [BD]
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="SPORTS", PK Sports HD
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS", Sony SIX (2)
+http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1 HD (1)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1 HD (3)
+http://45.249.187.238:8081/hls/new2.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 2 HD (1)
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD (1)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD (4)
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS", Star Sports Select 2 HD (1)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS", PTV Sports (1)
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS", PTV Sports (2)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SPORTS", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="SPORTS", Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="SPORTS", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="SPORTS", Euro Sports 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS", Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS", Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS", Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS", Abu Dhabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS", WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="SPORTS", ATG
+http://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORTS", Bek Sports East
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORTS", Bek Sports West
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SPORTS", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYKdpJv.png" group-title="SPORTS", Edge Sports
+http://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5mrSTk.jpg" group-title="SPORTS", Esport Club
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="SPORTS", Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS", Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS", Olympic Channel [HD]
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS", Olympic Channel [UHD]
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="SPORTS", Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="SPORTS", RTV Sports
+http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0cjjyk.jpg" group-title="SPORTS", Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="SPORTS", Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xUfbevV.png" group-title="SPORTS", RTA Sports
+http://212.47.252.54/hls/stream.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE", amarNetTV Cricket Live 1
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE", amarNetTV Cricket Live 6
+http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS", 2_Star Sports 1 HD
+http://45.249.187.238:8081/hls/new2.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS", 2_Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS", 2_PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX TV SERVERS", 3_Star Sports 1 HD
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX TV SERVERS", 3_Star Sports 2 HD
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="BDIX TV SERVERS", 3_Discovery HD
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="BDIX TV SERVERS", 4_Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OfDGNq.png" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", 350 | STIRR Sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkyW5yF.png" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", 395 | ESR eSports Channel
+https://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", Distro TV | Sportskool TV
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", Distro TV | Lax Sport Network
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", Distro TV | Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", Pluto | 455 Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)", Pluto | 459 CBS Sports HQ
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=37.7353&deviceLon=-122.3732&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=b680b8ed-2ff3-48ad-86f5-8f0a49d1b182&userId=&serverSideAds=true
+

@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES", Zee Cinema UK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="IND. MOVIES", &Xplor HD
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/143805
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES", SONY MAX FHD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES", SONY WAH
+http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xt8ssazw0dlxbv9/SB.PNG" group-title="IND. MOVIES", Shemaroo Premiere HD
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/UTV_Movies_logo.png" group-title="IND. MOVIES", UTV MOVIES
+http://line.hi-ott.net/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112883
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="IND. MOVIES", MBC Bollywood HD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6rtkq6nqpilmod3/bolly.jpg" group-title="IND. MOVIES", Bollywood TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="IND. MOVIES", BFLIX MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="IND. MOVIES", WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="IND. MOVIES", BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="IND. MOVIES", MAHA MOVIE
+https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="IND. MOVIES", Housefull Movies
+https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="IND. MOVIES", Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="IND. MOVIES", Lollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="IND. MOVIES", Kollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="IND. MOVIES", Mollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844490762091945984/fpXPJphw_400x400.jpg" group-title="IND. MOVIES", Premium Marathi Movies
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844490762091945984/fpXPJphw_400x400.jpg" group-title="IND. MOVIES", Classic Marathi Movies
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8?@amarnettv.live
+
