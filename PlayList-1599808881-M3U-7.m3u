@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Ads sport cricket,RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", PGA : SKY SPORTS GOLF
+http://randomserver.site:2086/live/crystal/12345/99142.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS CRICKET
+http://66.northerniptv.ca:8000/tommy2/123456/205?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS CRICKET
+http://66.northerniptv.ca:8000/live/george/george123/205.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS CRICKET
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/2462?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", TEN SPORTS
+http://randomserver.site:2086/live/crystal/12345/91814.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", TEN SPORTS PK
+http://randomserver.site:2086/live/crystal/12345/94989.m3u8?checkedby:hlscat.com
+
