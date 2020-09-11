@@ -1,0 +1,94 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+http://66.northerniptv.ca:8000/tommy2/123456/205?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sport",Ads sport cricket,RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+http://66.northerniptv.ca:8000/live/george/george123/205.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",TEN SPORTS
+http://randomserver.site:2086/live/crystal/12345/91814.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Undefined",BOISHAKHI
+http://randomserver.site:2086/live/Bria/Bria/95030.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",TEN SPORTS PK
+http://randomserver.site:2086/live/crystal/12345/94989.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Undefined",ATN-BANGLA
+http://randomserver.site:2086/live/Bria/Bria/95012.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Undefined",GAZITV
+http://randomserver.site:2086/live/Bria/Bria/95034.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
+http://randomserver.site:2086/live/Bria/Bria/94737.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
+http://randomserver.site:2086/live/crystal/12345/94935.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SAB HD
+http://randomserver.site:2086/live/Bria/Bria/94768.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY HD
+http://randomserver.site:2086/live/crystal/12345/91836.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY PIX HD
+http://randomserver.site:2086/live/crystal/12345/94767.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY TEN 1 HD
+http://randomserver.site:2086/live/crystal/12345/94771.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SIX HD
+http://randomserver.site:2086/live/Bria/Bria/94770.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY TEN 2 HD
+http://randomserver.site:2086/live/crystal/12345/94772.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS BANGLA HD
+http://randomserver.site:2086/live/Bria/Bria/91888.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE BANGLA HD
+http://randomserver.site:2086/live/Bria/Bria/94798.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS HD
+http://randomserver.site:2086/live/Bria/Bria/91887.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/live/crystal/12345/94780.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD
+http://randomserver.site:2086/live/crystal/12345/94784.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HINDI
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/68.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",WILLOW CRICKET HD
+http://randomserver.site:2086/live/Bria/Bria/94797.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",WILLOW CRICKET HD
+http://randomserver.site:2086/live/crystal/12345/94797.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Discovery HD
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/57.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NICK HD
+http://randomserver.site:2086/live/Bria/Bria/91849.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MTV BEATS
+http://randomserver.site:2086/live/Bria/Bria/95079.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/live/crystal/12345/94789.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/live/Bria/Bria/94790.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE ACTION
+http://randomserver.site:2086/live/crystal/12345/95046.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE CINEMA 4K
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/24.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE CINEMA HD
+http://randomserver.site:2086/live/Bria/Bria/91809.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ZEE BANGLA CINE
+http://randomserver.site:2086/live/crystal/12345/94831.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",GB-Asian : PEACE TV BANGLA
+http://randomserver.site:2086/live/Bria/Bria/94714.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",GB-Asian : ATN BANGLA
+http://randomserver.site:2086/live/crystal/12345/94702.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR BHARAT
+http://randomserver.site:2086/live/crystal/12345/91833.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR GOLD HD
+http://randomserver.site:2086/live/crystal/12345/94775.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR GOLD INDIA 4K
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR GOLD SELECT
+http://randomserver.site:2086/live/crystal/12345/94776.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR JALSA HD
+http://randomserver.site:2086/live/crystal/12345/94777.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR JALSA HD
+http://randomserver.site:2086/live/Bria/Bria/94777.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR MOVIES SELECT HD
+http://randomserver.site:2086/live/Bria/Bria/94828.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR PLUS HD
+http://randomserver.site:2086/live/crystal/12345/91828.m3u8?checkedby:hlscat.com
