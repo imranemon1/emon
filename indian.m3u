@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="INDIAN MIXED", COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="INDIAN MIXED", COLORS HD
+http://198.255.87.59:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="INDIAN MIXED", COLORS HD UK
+http://185.246.210.50:2200/EX/colorsuk-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png/revision/latest?cb=20190307235506" group-title="INDIAN MIXED", COLORS Rishtey
+http://185.59.222.171:2200/NL/colorsrishtey-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="INDIAN MIXED", STAR PLUS HD
+http://198.255.87.59:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="INDIAN MIXED", STAR BHARAT HD
+http://198.255.87.59:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="INDIAN MIXED", SONY
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="INDIAN MIXED", SONY HD
+http://198.255.87.59:8080/INDIA_HINDI/SONY_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="INDIAN MIXED", SONY SAB
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="INDIAN MIXED", SONY SAB HD
+http://198.255.87.59:8080/INDIA_HINDI/SONY_SAB_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755457s.png" group-title="INDIAN MIXED", SONY PAL
+http://198.255.87.59:8080/INDIA_HINDI/SONY_PAL/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="INDIAN MIXED", & TV HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="INDIAN MIXED", Zee TV HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="INDIAN MIXED", The Q
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vgwu01lpb7imo8l/Shemaroo.png" group-title="INDIAN MIXED", Shemaroo TV
+https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="INDIAN MIXED", Dabaang
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="INDIAN MIXED", Care World
+http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="INDIAN MIXED", DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+

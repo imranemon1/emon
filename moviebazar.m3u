@@ -1,0 +1,137 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_BTV National
+http://45.249.187.238:8081/hls/new24.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Channel 9
+http://45.249.187.238:8081/hls/live3.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Gazi TV
+http://45.249.187.238:8081/hls/live5.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Massranga TV
+http://45.249.187.238:8081/hls/live6.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Channel I
+http://45.249.187.238:8081/hls/live7.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_RTV
+http://45.249.187.238:8081/hls/live1.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Colors
+http://45.249.187.238:8081/hls/live2.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Nagorik TV
+http://45.249.187.238:8081/hls/new16.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Asian TV
+http://45.249.187.238:8081/hls/new4.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_ATN Bangla
+http://45.249.187.238:8081/hls/new20.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_MY TV
+http://45.249.187.238:8081/hls/new5.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Bangla Vision
+http://45.249.187.238:8081/hls/new6.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_News 24
+http://45.249.187.238:8081/hls/live4.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Independent TV
+http://45.249.187.238:8081/hls/hdmi4.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Somoy News
+http://45.249.187.238:8081/hls/hdmi2.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_9XM
+http://45.249.187.238:8081/hls/new23.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Duranto TV
+http://45.249.187.238:8081/hls/new3.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Bijoy TV
+http://45.249.187.238:8081/hls/new8.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Songeet Bangla
+http://45.249.187.238:8081/hls/new7.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Zee TV
+http://45.249.187.238:8081/hls/tsl-5.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_And TV
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Sony Sab
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_And Pictures
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Star Sports 1 HD
+http://45.249.187.238:8081/hls/new2.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_CNN News
+http://45.249.187.238:8081/hls/new19.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_BBC World News
+http://45.249.187.238:8081/hls/new19.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Al Jazeera
+http://45.249.187.238:8081/hls/new17.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_HBO
+http://45.249.187.238:8081/hls/new13.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Sony Pix
+http://45.249.187.238:8081/hls/new21.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Lotus Maucu
+http://45.249.187.238:8081/hls/new22.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Cartoon Network
+http://45.249.187.238:8081/hls/new14.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Disney
+http://45.249.187.238:8081/hls/live0.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Gazi TV
+http://45.249.187.238:8081/hls/live5.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Massranga TV
+http://45.249.187.238:8081/hls/live6.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Channel I
+http://45.249.187.238:8081/hls/live7.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_RTV
+http://45.249.187.238:8081/hls/live1.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Colors
+http://45.249.187.238:8081/hls/live2.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Madina TV
+http://45.249.187.238:8081/hls/new11.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIEBAZAR IPTV", MB_Ary Q TV
+http://45.249.187.238:8081/hls/new10.m3u8
+
