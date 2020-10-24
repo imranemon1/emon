@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -RSTV RajyaSabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment",ahlakid.com | -AMG TV
+https://nl.live21.ir/hls2/AMG.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -ONE HD
+https://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com | -SPORT | Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com | -SPORT | Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -RT ARABIC (1280×720)
+https://rt-arab-gd.secure2.footprint.net/1104.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -RTM 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Radio Javan (US) (Opt-2)
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News;Undefined",ahlakid.com | -SKY NEWS ARABIA (1280×720)
+https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -AL RAI (1920×1080)
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -AZNEWS TV
+https://swow2.socialsmart.tv/aznews/smil:aznews.smil/chunklist_w_sltur.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -GE | 1 TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Religious",ahlakid.com | -Mashhad Live 1 (Azadi)
+https://tv.razavi.ir/hls/azadi.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Religious",ahlakid.com | -Mashhad Live 2 (Enghelab)
+https://tv.razavi.ir/hls/enghelab.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment",ahlakid.com | -Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Yateem TV (New!)
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment",ahlakid.com | -Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com | -Media One
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com | -News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com | -Suvarna News 24×7
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com | -Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -第一财经
+https://w1live.livecdn.yicai.com/live/cbn.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -AVA
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com | -Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ahlakid.com |-ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-AMAR UJALA
+http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-Imervizia TV
+http://tv.cdn.xsg.ge/imervizia/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment;Undefined" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg",ahlakid.com |-ParsiLand TV (US)
+http://vps.parsiland.net/hls/ParsiLand.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-ZEE BOLLYWOOD
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-WION
+http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com |-PTV SPORTS
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com |-PTV SPORTS
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/IKiNKDu.png",ahlakid.com |-Imayam TV
+https://5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6njRt6c.png",ahlakid.com |-AL MAMLAKA TV (1920×1080)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/m8cS74j.png",ahlakid.com |-Minhaj TV
+https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News;Undefined" tvg-logo="https://i.imgur.com/rLR5q2x.png",ahlakid.com |-Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/nOIcXJ6.png",ahlakid.com |-Aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-CHANNEL 4 TEEN (1920×1080)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/8R1UWRw.jpg",ahlakid.com |-Kabbalah for the People (Israel)
+https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-DUNYA NEWS
+https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rVYdkth.jpg",ahlakid.com |-HAWAS TV (1280×720)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/El2hhYb.png",ahlakid.com |-QA | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/BB93NQP.png",ahlakid.com |-QA | Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/uFiHtQX.png",ahlakid.com |-Malaimurasu
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-DW
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-INDIA NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/u3ZwRHX.png",ahlakid.com |-Marutam TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-NDTV PROFILE
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/80vwZaO.png",ahlakid.com |-NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/pQ7nl12.png",ahlakid.com |-NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-NEWS 18 ASSAM
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/3IzVcjg.png",ahlakid.com |-Pakalavan TV
+https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/N9dO8AE.png",ahlakid.com |-LIBYA 218 218 (1920×1080)
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-JOO MUSIC
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png",ahlakid.com |-3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/JNmRU3V.png",ahlakid.com |-SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/lJdOstp.png",ahlakid.com |-SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rKTE8Qw.png",ahlakid.com |-SYRIA TV (1920×1080)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png",ahlakid.com |-Caltex TV
+https://vid1.caltexmusic.com/hls/caltextv.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-ASIANET NEWS
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-KHABARAIN ABHI TAK
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-NEWS 18
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="General" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png",ahlakid.com |-Alhayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com |-& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:ahlakid.com
