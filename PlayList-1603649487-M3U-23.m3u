@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="CMCL TV", Zee Bangla SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="CMCL TV", Colors Bangla SD
+http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="CMCL TV", Sony Aath [IN] (1)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="CMCL TV", COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="CMCL TV", SONY
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="CMCL TV", SONY Max
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="CMCL TV", Zee Cinema
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="CMCL TV", BBC News
+http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="CMCL TV", Zee Bangla SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+
