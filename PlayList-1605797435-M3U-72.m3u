@@ -1,0 +1,137 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="KITV LIVE", KI_CHANNEL I HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="KITV LIVE", KI_NTV [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="KITV LIVE", KI_MY TV [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="KITV LIVE", KI_MAASRANGA TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="KITV LIVE", KI_CHANNEL 9 HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="KITV LIVE", KI_GAZI TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="KITV LIVE", KI_SA TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE", KI_DEEPTO TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="KITV LIVE", KI_NAGORIK TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="KITV LIVE", KI_EKATTOR TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KITV LIVE", KI_Durunto TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE", KI_Star Jalsha HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="KITV LIVE", KI_Zee Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="KITV LIVE", KI_Sony Aath
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="KITV LIVE", KI_Jalsha Movies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="KITV LIVE", KI_Sangeet Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="KITV LIVE", KI_Star Plus
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="KITV LIVE", KI_Sony TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="KITV LIVE", KI_Zee TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="KITV LIVE", KI_Colors
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="KITV LIVE", KI_AXN HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="KITV LIVE", KI_Sony Max HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE", KI_Zee Cinema
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="KITV LIVE", KI_Star Movies SD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="KITV LIVE", KI_HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="KITV LIVE", KI_MN+ HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="KITV LIVE", KI_Sony Pix SD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="KITV LIVE", KI_& Flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="KITV LIVE", KI_Sony Ten 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="KITV LIVE", KI_Sony SIX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="KITV LIVE", KI_Star Sports 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="KITV LIVE", KI_Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="KITV LIVE", KI_Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE", KI_D Sports
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="KITV LIVE", KI_Discovery HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="KITV LIVE", KI_TLC HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="KITV LIVE", KI_BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KITV LIVE", KI_BBC EARTH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="KITV LIVE", KI_History TV 18 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE", KI_MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE", KI_Masti Music
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="KITV LIVE", KI_CHANNEL I HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="KITV LIVE", KI_NTV [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="KITV LIVE", KI_MY TV [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+
