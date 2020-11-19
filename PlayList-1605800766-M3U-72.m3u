@@ -1,0 +1,185 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery english
+https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery  sd bangla
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", disney hd
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery
+https://streamitv.multitvsolution.in/idvo/discoverybengali_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", star jalsha hd {link 2}
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sony sab hd
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", zee bangla hd
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", zee bangla hd {link 2}
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", massranga tv hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 71 tv hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", nagorik tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", chanel i hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", deepto tv hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", gazi tv hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", channel 9 hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", satv hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", n tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", my tv hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sony aath
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", travel xp hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", zee cinema
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", colors
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", enter 10 movies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", axn
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", star movies sellect hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", hbo tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bbc lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sony ten 1 {link 2}
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Unknown_44
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sony ten 2 hd {link 2}
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", star sports sellect 1 hd {link 2}
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", star sports sellect 2 hd {link 2}
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", d sports tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bbc tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", alzazira tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery hd
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery english
+https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery  sd bangla
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", discovery turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", disney hd
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sangeet bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", m tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", qx zalwaa
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", massti
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", history tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", dw tv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports 1 hd
+http://116.203.40.131/hls/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports 2
+http://116.203.40.131/hls/bein2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports 3 hd
+http://116.203.40.131/hls/bein3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports hd 4
+http://116.203.40.131/hls/bein4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports hd 5
+http://116.203.40.131/hls/bein5.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports 6 hd
+http://116.203.40.131/hls/bein6.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports 7 hd
+http://116.203.40.131/hls/bein7.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports  8 hd
+http://116.203.40.131/hls/bein8.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", bein sports 9 hd
+http://116.203.40.131/hls/bein9.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", enter 10 bangla
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+
