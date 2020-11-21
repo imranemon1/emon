@@ -30,6 +30,13 @@ http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Max 2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
 
 http://103.132.180.245:8080/2/index.m3u8
 
