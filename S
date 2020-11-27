@@ -125,3 +125,25 @@ http://dx3.gcdn.co/GEOSUPER/index.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8?@asfaiptv
+
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8?@asfaiptv
+
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
+
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
+
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8?@asfaiptv
+
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w651048037.m3u8
+
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
+
+https://rhridoy136.shortcm.li/deshtv.m3u8
+
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+
+http://103.132.180.245:8080/6/index.m3u8
+
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
