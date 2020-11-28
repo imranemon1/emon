@@ -147,3 +147,5 @@ http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 http://103.132.180.245:8080/6/index.m3u8
 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+
+http://113.212.111.246:8080/hls/col2.m3u8
