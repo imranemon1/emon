@@ -154,4 +154,4 @@ http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
 
 http://otv.ftpbd.net/streams/104/index.m3u8
 
-http://103.144.214.130/channel1/ngrp:myStream_all/media-uu2a2j0gk_b664000_751.ts
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
