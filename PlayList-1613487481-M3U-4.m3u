@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", & PICTURES HD
+http://mags.vip:2086/live/jav/jav123/94737.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", ZEE CINEMA HD
+http://mags.vip:2086/live/jav/jav123/91809.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", & PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SONY MAX HD
+http://mags.vip:2086/live/jav/jav123/94766.ts?checkedby:hlscat.com
+
