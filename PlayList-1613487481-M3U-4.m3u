@@ -1,17 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", & PICTURES HD
-http://mags.vip:2086/live/jav/jav123/94737.ts?checkedby:hlscat.com
+http://103.80.70.59/hls/stream25.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", ZEE CINEMA HD
-http://mags.vip:2086/live/jav/jav123/91809.ts?checkedby:hlscat.com
+http://103.80.70.59/hls/stream9.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", & PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+http://103.80.70.59/hls/stream28.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SONY MAX HD
-http://mags.vip:2086/live/jav/jav123/94766.ts?checkedby:hlscat.com
-
+http://103.80.70.59/hls/stream26.m3u8
