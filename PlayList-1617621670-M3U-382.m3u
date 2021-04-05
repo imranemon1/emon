@@ -1,0 +1,227 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T SPORTS HD
+http://95.111.250.189:25461/ImRanEMon/123/6589
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg" group-title="Sports", Sony Six HD  ( back up 1 )
+http://95.111.250.189:25461/ImRanEMon/123/6592
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS26nqiIYus2CDK6cRnFRzcR_7_oaXkf6J2mQ&usqp=CAU" group-title="Sports", Ten Sports
+http://95.111.250.189:25461/ImRanEMon/123/6596
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="Sports", Viasat Sport
+http://95.111.250.189:25461/ImRanEMon/123/6663
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/fc-bayern-munchen-early-80s-logo-vector-logo-115742728171iwcibs9ab.png" group-title="Sports", BAYERN MUNICH TV
+http://95.111.250.189:25461/ImRanEMon/123/10700
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDFYKZh.png" group-title="Sports", STAR SPORTS 1 HD ( Back up 1)
+http://95.111.250.189:25461/ImRanEMon/123/11629
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports", Star sports select 2 HD [Back up 3 ]
+http://95.111.250.189:25461/ImRanEMon/123/19742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="POPULAR CHANNEL CH MIX ( Bufferless)", T sports bdix
+http://95.111.250.189:25461/ImRanEMon/123/35541
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Sq3h1g.jpg" group-title="SPORTS INT.", ABU DHABI SPORTS 1
+http://95.111.250.189:25461/ImRanEMon/123/14480
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Sq3h1g.jpg" group-title="SPORTS INT.", ABU DHABI SPORTS 2
+http://95.111.250.189:25461/ImRanEMon/123/14481
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNhG6ys.jpg" group-title="SPORTS INT.", Al Kass  Sport 1
+http://95.111.250.189:25461/ImRanEMon/123/14482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Abu Dhabi Sports 1
+http://95.111.250.189:25461/ImRanEMon/123/24976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Abu Dhabi Sports 2
+http://95.111.250.189:25461/ImRanEMon/123/24977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Dubai Sports 1
+http://95.111.250.189:25461/ImRanEMon/123/24978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Dubai Sports 2
+http://95.111.250.189:25461/ImRanEMon/123/24979
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Dubai Sports 3
+http://95.111.250.189:25461/ImRanEMon/123/24980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Dubai Sports 4
+http://95.111.250.189:25461/ImRanEMon/123/24981
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Al Kass Sports 2
+http://95.111.250.189:25461/ImRanEMon/123/24982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Al Kass Sports 3
+http://95.111.250.189:25461/ImRanEMon/123/24983
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Al Kass Sports 4
+http://95.111.250.189:25461/ImRanEMon/123/24984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS INT.", Sports TV
+http://95.111.250.189:25461/ImRanEMon/123/25012
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNhG6ys.jpg" group-title="WOLD SPORTS", Al Kass Nashya Sport 2
+http://95.111.250.189:25461/ImRanEMon/123/19622
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Sq3h1g.jpg" group-title="WOLD SPORTS", MLB NETWORK US
+http://95.111.250.189:25461/ImRanEMon/123/19625
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Sq3h1g.jpg" group-title="WOLD SPORTS", Most Video TV
+http://95.111.250.189:25461/ImRanEMon/123/19626
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="WOLD SPORTS", Al Kass Sports 1
+http://95.111.250.189:25461/ImRanEMon/123/19669
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="WOLD SPORTS", Al Kass Sports 2
+http://95.111.250.189:25461/ImRanEMon/123/19670
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="WOLD SPORTS", Al Kass Sports 3
+http://95.111.250.189:25461/ImRanEMon/123/19671
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HLinDI.jpg" group-title="WOLD SPORTS", Turkmenistan Sport
+http://95.111.250.189:25461/ImRanEMon/123/19687
+
+#EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" group-title="WOLD SPORTS", Астрахань.Ru Sport
+http://95.111.250.189:25461/ImRanEMon/123/19691
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="WOLD SPORTS", Abu Dhabi Sports 5
+http://95.111.250.189:25461/ImRanEMon/123/19700
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awkADAk.jpg" group-title="WOLD SPORTS", Turkmenistan Sport
+http://95.111.250.189:25461/ImRanEMon/123/19702
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="WOLD SPORTS", TVRI SPORT HD
+http://95.111.250.189:25461/ImRanEMon/123/19703
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RzQQ0MG.png" group-title="Bein group", [$]BEIN SPORTS 3HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25272
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRS2wJh.png" group-title="Bein group", [$]BEIN SPORTS 4HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25273
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOrnXGC.png" group-title="Bein group", [$]BEIN SPORTS 5HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25274
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXKME9l.png" group-title="Bein group", [$]BEIN SPORTS 6HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25275
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Geb2iY.png" group-title="Bein group", [$]BEIN SPORTS 7HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25276
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzgYeNE.jpg" group-title="Bein group", [$]BEIN SPORTS 8HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25277
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJgzQPW.png" group-title="Bein group", [$]BEIN SPORTS 9HD[AR]
+http://95.111.250.189:25461/ImRanEMon/123/25278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 1 (Yedek) HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", Bein Sports 1 HD FR
+http://95.111.250.189:25461/ImRanEMon/123/25322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 1 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25323
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 10 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25324
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 11 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 12 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25326
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 2 (Yedek) HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25327
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", Bein Sports 2 HD FR
+http://95.111.250.189:25461/ImRanEMon/123/25328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 2 HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25329
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 3 (Yedek) HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25330
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", Bein Sports 3 HD FR
+http://95.111.250.189:25461/ImRanEMon/123/25331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 3 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 3 HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 4 (Yedek) HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 4 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 4 HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 5 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 6 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25338
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 7 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 8 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports 9 HD QA
+http://95.111.250.189:25461/ImRanEMon/123/25341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN SPORTS HABER
+http://95.111.250.189:25461/ImRanEMon/123/25342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports Haber FHD TR
+http://95.111.250.189:25461/ImRanEMon/123/25343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN SPORTS HABER HD
+http://95.111.250.189:25461/ImRanEMon/123/25344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", BEIN SPORTS HD ES
+http://95.111.250.189:25461/ImRanEMon/123/25345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bein group", beIN Sports Max 1 HD TR
+http://95.111.250.189:25461/ImRanEMon/123/25346
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1GUdsi.png" group-title="International Server", [$]FOX SPORTS HD
+http://95.111.250.189:25461/ImRanEMon/123/25079
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mi2ki7V.png" group-title="International Server", [$]FOX SPORTS 2HD
+http://95.111.250.189:25461/ImRanEMon/123/25080
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex44kb3.png" group-title="International Server", [$]FOX SPORTS 3HD
+http://95.111.250.189:25461/ImRanEMon/123/25081
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9g5XkTZ/TS.png" group-title="International Server", [$]T SPORTS HD
+http://95.111.250.189:25461/ImRanEMon/123/25091
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nystebV.png" group-title="International Server", [$]SKY SPORTS AUSTRIA HD
+http://95.111.250.189:25461/ImRanEMon/123/25092
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDKKYxk/HS.png" group-title="International Server", [$]HALOW SPORTS HD...
+http://95.111.250.189:25461/ImRanEMon/123/25151
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DV3TxJ/SP.png" group-title="International Server", [$]SPORTS TV
+http://95.111.250.189:25461/ImRanEMon/123/25181
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZf1OFD.png" group-title="International Server", [$]BEIN SPORTS N...
+http://95.111.250.189:25461/ImRanEMon/123/25185
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6X6rd7.png" group-title="International Server", [$]TUDN SPORTS...
+http://95.111.250.189:25461/ImRanEMon/123/25186
+

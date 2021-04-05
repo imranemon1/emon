@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/zee-anmol.jpg" group-title="HINDI. ENT", ZEE ANMOL CINEMA HD
+http://95.111.250.189:25461/ImRanEMon/123/10634
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P2ryJTufkEk/hqdefault.jpg" group-title="HINDI. ENT", Star plus HD
+http://95.111.250.189:25461/ImRanEMon/123/6530
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="HINDI. ENT", STAR PLUS HD+
+http://95.111.250.189:25461/ImRanEMon/123/6531
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="HINDI. ENT", Colors HD 2
+http://95.111.250.189:25461/ImRanEMon/123/19739
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg" group-title="HINDI. ENT", Colors HD
+http://95.111.250.189:25461/ImRanEMon/123/6534
+
+#EXTINF:-1 tvg-logo="https://www.viacom18.com/images/uploads/5ca20f26d9788channels-rishtey.png" group-title="HINDI. ENT", Colors Rishtey
+http://95.111.250.189:25461/ImRanEMon/123/6535
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg" group-title="HINDI. ENT", ZEE TV HD
+http://95.111.250.189:25461/ImRanEMon/123/6533
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdrtyvW4uNJVYZiJfSbEUGK-LfEe9QszjLs" group-title="HINDI. ENT", SONY PAL
+http://95.111.250.189:25461/ImRanEMon/123/6536
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/68499_sony-sab.png.jpg" group-title="HINDI. ENT", Sony SAB HD
+http://95.111.250.189:25461/ImRanEMon/123/6537
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/100px-SET_India_logo.svg.png" group-title="HINDI. ENT", SONY TV HD
+http://95.111.250.189:25461/ImRanEMon/123/6538
+
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="HINDI. ENT", & TV HD --
+http://95.111.250.189:25461/ImRanEMon/123/6542
+
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/c6460c1a8706658df05d654a6fa024f4_ddf-exclusive-tv-new-logo-dreamdth-television-discussion-forums_300-248.png" group-title="HINDI. ENT", & TV
+http://95.111.250.189:25461/ImRanEMon/123/6799
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI. ENT", BIG MAGIC
+http://95.111.250.189:25461/ImRanEMon/123/10629
+
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI. ENT", ZEE SAILE US
+http://95.111.250.189:25461/ImRanEMon/123/10648
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/zee-anmol.jpg" group-title="HINDI. ENT", ZEE ANMOL CINEMA HD
+http://95.111.250.189:25461/ImRanEMon/123/10634
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P2ryJTufkEk/hqdefault.jpg" group-title="HINDI. ENT", Star plus HD
+http://95.111.250.189:25461/ImRanEMon/123/6530
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="HINDI. ENT", STAR PLUS HD+
+http://95.111.250.189:25461/ImRanEMon/123/6531
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="HINDI. ENT", Colors HD 2
+http://95.111.250.189:25461/ImRanEMon/123/19739
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg" group-title="HINDI. ENT", Colors HD
+http://95.111.250.189:25461/ImRanEMon/123/6534
+

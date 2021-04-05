@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/mastii.jpg" group-title="Music", Mastii
+http://95.111.250.189:25461/ImRanEMon/123/6606
+
+#EXTINF:-1 tvg-logo="https://www.coastmountainnews.com/wp-content/uploads/2019/08/17955357_web1_1908001-SNE-MTVTurns38-2.jpg" group-title="Music", MTV IN
+http://95.111.250.189:25461/ImRanEMon/123/6812
+
+#EXTINF:-1 tvg-logo="https://www.coastmountainnews.com/wp-content/uploads/2019/08/17955357_web1_1908001-SNE-MTVTurns38-2.jpg" group-title="Music", MTV EU
+http://95.111.250.189:25461/ImRanEMon/123/10653
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Music", KAPPA TV
+http://95.111.250.189:25461/ImRanEMon/123/6603
+
+#EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/mastii.jpg" group-title="Music", Mastii
+http://95.111.250.189:25461/ImRanEMon/123/6606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", Desi Channel
+http://95.111.250.189:25461/ImRanEMon/123/6803
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", 7S Music
+http://95.111.250.189:25461/ImRanEMon/123/6817
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuyqwRZ.png" group-title="Music", MK Tunes
+http://95.111.250.189:25461/ImRanEMon/123/6815
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="Music", Public music
+http://95.111.250.189:25461/ImRanEMon/123/10572
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9ExYN3j3fvQpj0rjie0VTiuACkFQ0M7IDfw&usqp=CAU" group-title="Music", Jhanjar Music
+http://95.111.250.189:25461/ImRanEMon/123/10573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", Jhanjar Music HD
+http://95.111.250.189:25461/ImRanEMon/123/10588
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/VH1_India_2016.jpg/revision/latest/scale-to-width-down/340?cb=20180910144058" group-title="Music", VH1 HD
+http://95.111.250.189:25461/ImRanEMon/123/6818
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/boogle-bollywood-white.png" group-title="Music", Boogle Bollyhood
+http://95.111.250.189:25461/ImRanEMon/123/10630
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", MK SIX
+http://95.111.250.189:25461/ImRanEMon/123/6826
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Music", Trace Mziki
+http://95.111.250.189:25461/ImRanEMon/123/6829
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1464128411/1149.png" group-title="Music", BOX HITS ---
+http://95.111.250.189:25461/ImRanEMon/123/10566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", ARVAZ
+http://95.111.250.189:25461/ImRanEMon/123/10589
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFqdPEn.jpg" group-title="Music", NAGO TV MUSIC
+http://95.111.250.189:25461/ImRanEMon/123/6827
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="Music", MTV HD+
+http://95.111.250.189:25461/ImRanEMon/123/26420
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg" group-title="English Movies", Bill & Ted Face the Music - 2020
+http://95.111.250.189:25461/movie/ImRanEMon/123/27479.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Bspq7eN4UexrVNL3MewbiHsyM.jpg" group-title="English Movies", Dirt Music - 2020
+http://95.111.250.189:25461/movie/ImRanEMon/123/27630.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xxAenhWPNAGeTo98Mt9AGoqott.jpg" group-title="English Movies", Teen.Musical.2020.1080p.WEBRip.x265-RARBG.mp4
+http://95.111.250.189:25461/movie/ImRanEMon/123/28404.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEOwlojOgtbfdFrMANVwVohOqyY.jpg" group-title="HINDI MOVIES 8", 2020.MTV.Video.Music.Awards.2020.[HINDI]720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://95.111.250.189:25461/movie/ImRanEMon/123/29926.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD CH", T Music
+http://95.111.250.189:25461/ImRanEMon/123/14600
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD CH", Qmusic 2
+http://95.111.250.189:25461/ImRanEMon/123/14678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabic TV", Arabica Music
+http://95.111.250.189:25461/ImRanEMon/123/18406
+
+#EXTINF:-1 tvg-logo="https://v4stream.com/upload/source/Raise%20tvhd.png" group-title="Tamil & Telegu Ch.", Rasi Music
+http://95.111.250.189:25461/ImRanEMon/123/26341
+

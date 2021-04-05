@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/set-max.jpg" group-title="Hindi Movie Ch.", SONY SET  MAX
+http://95.111.250.189:25461/ImRanEMon/123/6551
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/set-max.jpg" group-title="Hindi Movie Ch.", SONY SET MAX HD
+http://95.111.250.189:25461/ImRanEMon/123/6552
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" group-title="Hindi Movie Ch.", SONY MAX HD 2
+http://95.111.250.189:25461/ImRanEMon/123/6553
+
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="Hindi Movie Ch.", Colors Cineplex
+http://95.111.250.189:25461/ImRanEMon/123/14759
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/zee-anmol.jpg" group-title="Hindi Movie Ch.", ZEE ANMOL CINEMA HD 2
+http://95.111.250.189:25461/ImRanEMon/123/29047
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeecinemahd/list_clean/09zeecinemahdzee_970771670.png" group-title="Hindi Movie Ch.", ZEE CINEMA HD
+http://95.111.250.189:25461/ImRanEMon/123/6548
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Hindi Movie Ch.", Zee Action
+http://95.111.250.189:25461/ImRanEMon/123/9055
+
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_594/PORTRAIT/pqrmDQSP.png" group-title="Hindi Movie Ch.", Dabang TV
+http://95.111.250.189:25461/ImRanEMon/123/10624
+
+#EXTINF:-1 tvg-logo="https://www.v4stream.com/upload/source/Raise%20Hindihd.png" group-title="Hindi Movie Ch.", Rasi Hindi
+http://95.111.250.189:25461/ImRanEMon/123/26338
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movie Ch.", MOVIES TV
+http://95.111.250.189:25461/ImRanEMon/123/14807
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movie Ch.", Hindi movie
+http://95.111.250.189:25461/ImRanEMon/123/14817
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="Hindi Movie Ch.", B4U Kadak
+http://95.111.250.189:25461/ImRanEMon/123/6795
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movie Ch.", Rasi Movies
+http://95.111.250.189:25461/ImRanEMon/123/26313
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201711/stargold.jpg" group-title="Hindi Movie Ch.", Star Gold
+http://95.111.250.189:25461/ImRanEMon/123/6544
+
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/MH-One-Music-Logo.png" group-title="Hindi Movie Ch.", MH 1
+http://95.111.250.189:25461/ImRanEMon/123/33116
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Utsav_Gold_Logo.jpg" group-title="Hindi Movie Ch.", Utsav Gold  HD
+http://95.111.250.189:25461/ImRanEMon/123/33452
+

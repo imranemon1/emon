@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BANGLA CH.", BTV
+http://95.111.250.189:25461/ImRanEMon/123/10507
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA CH.", EKUSHEY TV
+http://95.111.250.189:25461/ImRanEMon/123/10513
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA CH.", Deepto TV
+http://95.111.250.189:25461/ImRanEMon/123/14811
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BANGLA CH.", NAGORIK TV
+http://95.111.250.189:25461/ImRanEMon/123/10518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BANGLA CH.", ASAIN TV
+http://95.111.250.189:25461/ImRanEMon/123/10522
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA CH.", BOISHAKHI TV
+http://95.111.250.189:25461/ImRanEMon/123/10524
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="BANGLA CH.", DESH TV .
+http://95.111.250.189:25461/ImRanEMon/123/10770
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA CH.", MOHONA TV
+http://95.111.250.189:25461/ImRanEMon/123/10527
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA CH.", EKATTOR TV HD
+http://95.111.250.189:25461/ImRanEMon/123/10529
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA CH.", STAR JALSHA SD
+http://95.111.250.189:25461/ImRanEMon/123/10597
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA CH.", Zee Bangla SD 2
+http://95.111.250.189:25461/ImRanEMon/123/14989
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA CH.", ZEE BANGLA  HD 2
+http://95.111.250.189:25461/ImRanEMon/123/11639
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA CH.", SONY AATH SD
+http://95.111.250.189:25461/ImRanEMon/123/10603
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA CH.", SONY AATH HD
+http://95.111.250.189:25461/ImRanEMon/123/10604
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA CH.", EKUSHEY TV
+http://95.111.250.189:25461/ImRanEMon/123/10513
+
