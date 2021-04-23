@@ -1,0 +1,14 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="1"  group-title="sports",1
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:2, tvg-id="" tvg-logo="" tvg-name="2"  group-title="sports",2
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:3, tvg-id="" tvg-logo="" tvg-name="3"  group-title="sports",3
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:4, tvg-id="" tvg-logo="" tvg-name="4"  group-title="sports",4
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+
