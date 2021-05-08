@@ -1,0 +1,244 @@
+#EXTM3U
+#EXTINF:0,& Star Sports 1 HD
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1023/index.m3u8
+#EXTINF:0,& Star Sports 2
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:0,& Star Sports 3
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:0,& Star Sports Select 1
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1020/index.m3u8
+#EXTINF:0,& Star Sports Select 2
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:0,& Ten Sports 1
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:0,& Ten Sports 2
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed10118/index.m3u8
+#EXTINF:0,& Ten Sports 3
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:0,& Ten Sports SIX
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1025/index.m3u8
+#EXTINF:0,& Euro Sports
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1026/index.m3u8
+#EXTINF:0,& Animal Planet
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:0,& Discovery HD
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:0,& History HD
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:0,& NICK
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:0,& Colors Banlga HD
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:0,& Zee Bangla
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1010/index.m3u8
+#EXTINF:0,& Ekattor
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:0,& Deepto HD
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:0,BTV
+#EXTGRP:unsorted
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:0,& GTV
+#EXTGRP:unsorted
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,& Star Sports Select 1 HD
+#EXTGRP:unsorted
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:0,& Sony Six HD
+#EXTGRP:unsorted
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+#EXTINF:0,& PTV SPORTS
+#EXTGRP:unsorted
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+#EXTINF:0,Jalsha
+#EXTGRP:unsorted
+http://43.230.123.20:8082/30/index.m3u8?remote=103.145.211.132&token=4ef4624c02eefce27f59d3517c6848ec69034861-4a675d85fd1eefafcc52ef2dd0bd09a1-1618700327-1618689527
+#EXTINF:0,Star Sport 2
+#EXTGRP:unsorted
+http://43.230.123.20:8082/25/index.m3u8?remote=103.145.211.132&token=0e1d1b555b4961d8e29123686cac6226d020977b-7a2f1d7d87b56f08ba24f13819225864-1618700396-1618689596
+#EXTINF:0,ZEE SARTHAK TV
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=sarthaktv&e=.m3u8
+#EXTINF:0,ZEE KALINGA TV NEWS
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=kalinga&e=.m3u8
+#EXTINF:0,&TV HD USA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andtvhdusa&e=.m3u8
+#EXTINF:0,&TV SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+#EXTINF:0,& PICTURES SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
+#EXTINF:0,& PICTURES HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+#EXTINF:0,AND FLIX SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
+#EXTINF:0,AND FLIX HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+#EXTINF:0,ZEE TV HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+#EXTINF:0,ZEE TV ME
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=ztvme/tracks-v1a1/index.m3u8
+#EXTINF:0,ZEE TV USA SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=ztvsdusa&e=.m3u8
+#EXTINF:0,ZEE TV USA HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=ztvhdusa&e=.m3u8
+#EXTINF:0,ZEE TV ASIA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=apacsea&e=.m3u8
+#EXTINF:0,ZEE TV CANADA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=canadahd&e=.m3u8
+#EXTINF:0,BIG MAGIC
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
+#EXTINF:0,BIG GANGA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=bigganga&e=.m3u8
+#EXTINF:0,ZEE LIVING
+#EXTGRP:unsorted
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
+#EXTINF:0,ETC PUNJABI
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=etcpnjbiusa&e=.m3u8
+#EXTINF:0,ZEE ANMOL
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+#EXTINF:0,ZEE MARATHI USA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=marathiusa&e=.m3u8
+#EXTINF:0,ZEE KERALAM HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
+#EXTINF:0,ZEE MUNDO HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=mundohd&e=.m3u8
+#EXTINF:0,ZEE MAGIC
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=magic&e=.m3u8
+#EXTINF:0,ZEE RUSSIA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=russia&e=.m3u8
+#EXTINF:0,ZEE WORLD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=world&e=.m3u8
+#EXTINF:0,ZING
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+#EXTINF:0,ZEE RAJHASTHAN
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zinguk&e=.m3u8
+#EXTINF:0,ZEE PUNJABI
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=punjabi&e=.m3u8
+#EXTINF:0,ZEE MP CG
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8
+#EXTINF:0,ZEE KALAK
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=kalak&e=.m3u8
+#EXTINF:0,ZEE BIHAR
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=biharjharkh&e=.m3u8
+#EXTINF:0,WION
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=wion&e=.m3u8
+#EXTINF:0,ZEE ANMOL
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+#EXTINF:0,ZEE VAJWA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeevajwa&e=.m3u8
+#EXTINF:0,ZEE ZEST SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zzestsd&e=.m3u8
+#EXTINF:0,ZEE ZEST HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
+#EXTINF:0,ZEE  CINEMA ME
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
+#EXTINF:0,ZEE CINEMA HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
+#EXTINF:0,ZEE CINEMA USA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
+#EXTINF:0,ZEE CINEMA UK
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=cinemauk&e=.m3u8
+#EXTINF:0,ZEE ANMOL CINEMA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+#EXTINF:0,ZEE CLASSIC
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
+#EXTINF:0,ZEE ACTION
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+#EXTINF:0,ZEE CIMEMALU SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
+#EXTINF:0,ZEE BANGLA CINEMA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+#EXTINF:0,ZEE TALKIES SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeetalkies&e=.m3u8
+#EXTINF:0,ZEE TALKIES HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=ztalkieshd&e=.m3u8
+#EXTINF:0,ZEE CAFE SD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeecafesd&e=.m3u8
+#EXTINF:0,ZEE CAFE HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
+#EXTINF:0,AND PRIVE HD
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
+#EXTINF:0,ZEE SMILE USA
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
+#EXTINF:0,ZEE5 LOCAL VOCAL MUSIC
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zee5_localvocal&e=.m3u8
+#EXTINF:0,ZEE5 ORIGNALS
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zee5_originals&e=.m3u8
+#EXTINF:0,ZEE5 ROMANCE
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zee5_romance&e=.m3u8
+#EXTINF:0,NONSTOP EDM
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=non_stop_edm&e=.m3u8
+#EXTINF:0,ZEE5 PANJABI BEATS
+#EXTGRP:unsorted
+http://cv.khushitv.xyz/channels.php?c=zee5_pabeats&e=.m3u8
