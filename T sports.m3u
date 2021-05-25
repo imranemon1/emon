@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0, T Sports
+#EXTGRP:unsorted
+https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_low/manifest.m3u8
+#EXTINF:0, T Sports
+#EXTGRP:unsorted
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:0, T Sports
+#EXTGRP:unsorted
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:0, T Sports
+#EXTGRP:unsorted
+http://103.205.133.19/hls/tsports.m3u8
