@@ -1,0 +1,1279 @@
+#EXTM3U
+#EXTINF:0,Ananda TV
+#EXTGRP:Bangladeshi
+https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Asian TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/asiantv.m3u8
+#EXTINF:0,ATN Bangla
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/atnbangla.m3u8
+#EXTINF:0,ATN News
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/atnnews.m3u8
+#EXTINF:0,ATN News (2)
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//9/index.m3u8
+#EXTINF:0,Bangladesh Television
+#EXTGRP:Bangladeshi
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:0,Bangladesh Television CTG
+#EXTGRP:Bangladeshi
+http://103.106.2.149:13456/btv_ctg.m3u8
+#EXTINF:0,BTV World
+#EXTGRP:Bangladeshi
+http://103.213.238.70:80/BTVWorld/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bangla TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/banglatv.m3u8
+#EXTINF:0,Banglavision HD
+#EXTGRP:Bangladeshi
+http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+#EXTINF:0,Bijoy TV
+#EXTGRP:Bangladeshi
+https://streamer-1.toffeelive.com/mobile_hls/bijoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Boshakhi TV
+#EXTGRP:Bangladeshi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:0,Channel 24
+#EXTGRP:Bangladeshi
+http://103.213.238.70:80/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:0,Channel 24 (2)
+#EXTGRP:Bangladeshi
+http://103.81.104.118/hls/stream22.m3u8
+#EXTINF:0,Channel 9 HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/ninechannel.m3u8
+#EXTINF:0,Channel I HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/ichannel.m3u8
+#EXTINF:0,Channel I HD (2)
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//5/index.m3u8
+#EXTINF:0,DBC News
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/dbcnews.m3u8
+#EXTINF:0,Deepto TV HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0,Deepto TV HD (2)
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//6/index.m3u8
+#EXTINF:0,Desh TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/deshtv.m3u8
+#EXTINF:0,Ekattor TV HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/ekatoortv.m3u8
+#EXTINF:0,Ekusey TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:0,Gaan Bangla
+#EXTGRP:Bangladeshi
+http://103.213.238.70:80/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0,Gazi TV HD
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//1/index.m3u8
+#EXTINF:0,Gazi TV HD (2)
+#EXTGRP:Bangladeshi
+http://jupiter.bdcabletv.com:80/Gazi_SP/video.m3u8
+#EXTINF:0,Independent TV
+#EXTGRP:Bangladeshi
+http://103.213.238.70:80/IndependentTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Jamuna TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/jamunatv.m3u8
+#EXTINF:0,Maasranga TV HD
+#EXTGRP:Bangladeshi
+http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
+#EXTINF:0,Mohona TV HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/mohonatv.m3u8
+#EXTINF:0,My TV BD
+#EXTGRP:Bangladeshi
+http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
+#EXTINF:0,Nagorik TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:0,Nagorik TV (2)
+#EXTGRP:Bangladeshi
+http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:0,News 24 HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/news24.m3u8
+#EXTINF:0,NTV BD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/ntv.m3u8
+#EXTINF:0,NTV BD (2)
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//12/index.m3u8
+#EXTINF:0,RTV HD
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:0,RTV HD (2)
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//11/index.m3u8
+#EXTINF:0,SA TV
+#EXTGRP:Bangladeshi
+http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
+#EXTINF:0,Shomoy TV
+#EXTGRP:Bangladeshi
+http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:0,T Sports HD
+#EXTGRP:Bangladeshi
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,T Sports HD (2)
+#EXTGRP:Bangladeshi
+http://103.106.243.163:8181//17/index.m3u8
+#EXTINF:0,ABP Ananda
+#EXTGRP:Indian Bangla
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:0,Calcutta News
+#EXTGRP:Indian Bangla
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:0,Colors Bangla HD
+#EXTGRP:Indian Bangla
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:0,Colors Bangla HD (2)
+#EXTGRP:Indian Bangla
+http://103.81.104.118/hls/stream28.m3u8
+#EXTINF:0,Colors Bangla SD
+#EXTGRP:Indian Bangla
+https://streamer-1.toffeelive.com/mobile_hls/colors_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Enter 10 Bangla
+#EXTGRP:Indian Bangla
+http://103.81.104.118/hls/stream26.m3u8
+#EXTINF:0,Enter 10 Bangla (2)
+#EXTGRP:Indian Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:0,Express News
+#EXTGRP:Indian Bangla
+http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
+#EXTINF:0,Jalsha Movies HD
+#EXTGRP:Indian Bangla
+http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:0,Jalsha Movies HD (2)
+#EXTGRP:Indian Bangla
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:0,News 18 Bangla
+#EXTGRP:Indian Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:0,Sony Aath
+#EXTGRP:Indian Bangla
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:0,Sony Aat (2)
+#EXTGRP:Indian Bangla
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:0,Star Jalsha SD
+#EXTGRP:Indian Bangla
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:0,Star Jalsha SD (2)
+#EXTGRP:Indian Bangla
+http://103.106.243.163:8181//19/index.m3u8
+#EXTINF:0,Star Jalsha HD
+#EXTGRP:Indian Bangla
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:0,Star Jalsha HD (2)
+#EXTGRP:Indian Bangla
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:0,Sun Bangla
+#EXTGRP:Indian Bangla
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:0,Zee Bangla SD
+#EXTGRP:Indian Bangla
+http://103.205.133.19/hls/zeebanglahd.m3u8
+#EXTINF:0,Zee Bangla HD
+#EXTGRP:Indian Bangla
+http://103.81.104.118/hls/stream30.m3u8
+#EXTINF:0,Zee Bangla HD (2)
+#EXTGRP:Indian Bangla
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:0,Zee Bangla HD (3)
+#EXTGRP:Indian Bangla
+http://103.81.104.118/hls/stream30.m3u8
+#EXTINF:0,Zee Bangla Cinema
+#EXTGRP:Indian Bangla
+http://103.213.238.70:80/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zee Bangla Cinema (2)
+#EXTGRP:Indian Bangla
+https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Zee 24 Ghanta
+#EXTGRP:Indian Bangla
+http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
+#EXTINF:0,& TV SD
+#EXTGRP:Hindi Entertainment
+http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:0,& TV HD
+#EXTGRP:Hindi Entertainment
+https://streamer-1.toffeelive.com/mobile_hls/atv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Colors SD
+#EXTGRP:Hindi Entertainment
+https://streamer-1.toffeelive.com/mobile_hls/colors/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Colors HD
+#EXTGRP:Hindi Entertainment
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:0,Colors HD (2)
+#EXTGRP:Hindi Entertainment
+https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Entertainment HD
+#EXTGRP:Hindi Entertainment
+http://103.205.133.19/hls/chs.m3u8
+#EXTINF:0,Sony Entertainment HD (2)
+#EXTGRP:Hindi Entertainment
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:0,Sony Entertainment SD
+#EXTGRP:Hindi Entertainment
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Pal
+#EXTGRP:Hindi Entertainment
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Sab HD
+#EXTGRP:Hindi Entertainment
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:0,Star Plus SD
+#EXTGRP:Hindi Entertainment
+http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:0,Star Plus HD
+#EXTGRP:Hindi Entertainment
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:0,Star Plus HD (2)
+#EXTGRP:Hindi Entertainment
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:0,Zee TV HD
+#EXTGRP:Hindi Entertainment
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:0,Zee TV HD (2)
+#EXTGRP:Hindi Entertainment
+https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Zee Zest HD
+#EXTGRP:Hindi Entertainment
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
+#EXTINF:0,& Pictures SD
+#EXTGRP:Hindi Movies
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:0,& Pictures HD
+#EXTGRP:Hindi Movies
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0,& Pictures HD (2)
+#EXTGRP:Hindi Movies
+http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:0,& Pictures HD (3)
+#EXTGRP:Hindi Movies
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,Bfilx Movies
+#EXTGRP:Hindi Movies
+https://streamer-1.toffeelive.com/mobile_hls/bflix_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Colors Cineplex HD
+#EXTGRP:Hindi Movies
+http://103.81.104.118/hls/stream29.m3u8
+#EXTINF:0,MBC Bollywood
+#EXTGRP:Hindi Movies
+http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0,Sony Max HD
+#EXTGRP:Hindi Movies
+http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Max HD (1)
+#EXTGRP:Hindi Movies
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0,Sony Max SD
+#EXTGRP:Hindi Movies
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Wah
+#EXTGRP:Hindi Movies
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Star Gold 2 HD
+#EXTGRP:Hindi Movies
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0,Star Gold HD
+#EXTGRP:Hindi Movies
+http://103.213.238.70:80/j-star-gold-hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold HD (2)
+#EXTGRP:Hindi Movies
+http://103.81.104.118/hls/stream19.m3u8
+#EXTINF:0,Star Gold HD (3)
+#EXTGRP:Hindi Movies
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:0,Star Gold Select HD
+#EXTGRP:Hindi Movies
+http://115.42.65.142:4000/play/a05l/index.m3u8
+#EXTINF:0,Star Gold Select HD (2)
+#EXTGRP:Hindi Movies
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
+#EXTINF:0,UTV Action
+#EXTGRP:Hindi Movies
+http://103.81.104.118/hls/stream7.m3u8
+#EXTINF:0,UTV Action (2)
+#EXTGRP:Hindi Movies
+http://103.81.104.118/hls/stream7.m3u8
+#EXTINF:0,Zee Action
+#EXTGRP:Hindi Movies
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:0,Zee Anmol Cinema
+#EXTGRP:Hindi Movies
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0,Zee Bolywood
+#EXTGRP:Hindi Movies
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:0,Zee Cinema HD
+#EXTGRP:Hindi Movies
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:0,Zee Cinema HD (2)
+#EXTGRP:Hindi Movies
+http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:English Infotainment
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0,Animal Planet HD (2)
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/animal_planet_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Animal Planet HD (3)
+#EXTGRP:English Infotainment
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0,Animal Planet HD Hindi
+#EXTGRP:English Infotainment
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,Animal Planet HD Hindi (2)
+#EXTGRP:English Infotainment
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0,BBC Earth
+#EXTGRP:English Infotainment
+http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:0,BBC Earth (2)
+#EXTGRP:English Infotainment
+http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:0,BBC Lifestyle
+#EXTGRP:English Infotainment
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0,Discovery HD
+#EXTGRP:English Infotainment
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:0,Discovery SD
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Discovery HD Hindi
+#EXTGRP:English Infotainment
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:0,Discovery HD Bangla
+#EXTGRP:English Infotainment
+http://103.81.104.118/hls/stream9.m3u8
+#EXTINF:0,Discovery HD Bangla (2)
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Discovery Asia
+#EXTGRP:English Infotainment
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/dis_sci/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Discovery Turbo
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Discovery Realtime
+#EXTGRP:English Infotainment
+https://wyjs.tk/index.php/https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:0,Discovery Food
+#EXTGRP:English Infotainment
+https://wyjs.tk/index.php/https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:0,Discovery Investigation
+#EXTGRP:English Infotainment
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#EXTINF:0,History Channel
+#EXTGRP:English Infotainment
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:0,NASA TV
+#EXTGRP:English Infotainment
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:English Infotainment
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0,National Geographic HD Bangla
+#EXTGRP:English Infotainment
+http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:0,National Geographic Wild
+#EXTGRP:English Infotainment
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0,National Geographic Wild Hindi
+#EXTGRP:English Infotainment
+http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0,Outdoor HD
+#EXTGRP:English Infotainment
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
+#EXTINF:0,Sony BBC Earth
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony BBC Earth (Goodstream Proxy)
+#EXTGRP:English Infotainment
+http://mygoodstream.pw/proxy.php/http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0,TLC SD Hindi
+#EXTGRP:English Infotainment
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+#EXTINF:0,TLC HD Hindi
+#EXTGRP:English Infotainment
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:0,TLC HD (2)
+#EXTGRP:English Infotainment
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TLC HD (3)
+#EXTGRP:English Infotainment
+https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Travel XP HD
+#EXTGRP:English Infotainment
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Travel XP HD Hindi
+#EXTGRP:English Infotainment
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0,Travel XP HD Hindi (2)
+#EXTGRP:English Infotainment
+https://wyjs.tk/index.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0,Travel XP HD Bangla
+#EXTGRP:English Infotainment
+http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:0,Al Jazeera FHD
+#EXTGRP:English News
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0,Al Jazeera HD
+#EXTGRP:English News
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:0,Al Jazeera SD
+#EXTGRP:English News
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:0,Arirang TV
+#EXTGRP:English News
+https://streamer-1.toffeelive.com/mobile_hls/arirang/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,BBC World News
+#EXTGRP:English News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0,BBC World News (2)
+#EXTGRP:English News
+http://103.81.104.118/hls/stream36.m3u8
+#EXTINF:0,CNA HD
+#EXTGRP:English News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,CNN HD
+#EXTGRP:English News
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0,CNN HD (2)
+#EXTGRP:English News
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0,CCTV4
+#EXTGRP:English News
+https://streamer-1.toffeelive.com/mobile_hls/cctv_4/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Deutsche Welle
+#EXTGRP:English News
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?rebase=on&sd=10
+#EXTINF:0,Deutsche Welle (2)
+#EXTGRP:English News
+https://streamer-1.toffeelive.com/mobile_hls/dw/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Euro News
+#EXTGRP:English News
+https://streamer-1.toffeelive.com/mobile_hls/euro_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,NHK World Japan
+#EXTGRP:English News
+https://streamer-1.toffeelive.com/mobile_hls/nhk_world/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Times Now
+#EXTGRP:English News
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0,& Flix HD
+#EXTGRP:English Movies
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,& Flix HD (Ersupport Proxy)
+#EXTGRP:English Movies
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,& Prive HD
+#EXTGRP:English Movies
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0,& Prive HD (Ersupport Proxy)
+#EXTGRP:English Movies
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:English Movies
+http://103.81.104.118/hls/stream2.m3u8
+#EXTINF:0,Blue Ant Entertainment
+#EXTGRP:English Movies
+http://45.126.83.51/dr9445/h/h16/02.m3u8
+#EXTINF:0,Colors Infinity HD
+#EXTGRP:English Movies
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:0,Colors Infinity HD (2)
+#EXTGRP:English Movies
+http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8
+#EXTINF:0,Colors Infinity HD (3)
+#EXTGRP:English Movies
+https://streamer-1.toffeelive.com/mobile_hls/colors_infinity_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Fox Family Movies
+#EXTGRP:English Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:English Movies
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Fox Life HD
+#EXTGRP:English Movies
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Fox Movies HD
+#EXTGRP:English Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,HBO
+#EXTGRP:English Movies
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:0,HBO Hits
+#EXTGRP:English Movies
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+#EXTINF:0,HBO Hits (Goodstream Proxy)
+#EXTGRP:English Movies
+http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:0,HBO Hits (Wyjs Proxy)
+#EXTGRP:English Movies
+https://wyjs.tk/index.php/http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:English Movies
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:0,HBO Signature(Goodstream proxy)
+#EXTGRP:English Movies
+http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:0,MBC 1
+#EXTGRP:English Movies
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:0,MBC Action
+#EXTGRP:English Movies
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:0,MBC Drama
+#EXTGRP:English Movies
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:0,MBC Drama Plus
+#EXTGRP:English Movies
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0,MBC HD 2
+#EXTGRP:English Movies
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:0,MBC HD 3
+#EXTGRP:English Movies
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:0,MBC Max
+#EXTGRP:English Movies
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:0,Sony Movies Action
+#EXTGRP:English Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:0,Sony Pix HD
+#EXTGRP:English Movies
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0,Sony Pix HD (2)
+#EXTGRP:English Movies
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0,Sony Pix HD (3)
+#EXTGRP:English Movies
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Pix HD (4)
+#EXTGRP:English Movies
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,Star Movies HD
+#EXTGRP:English Movies
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:0,Star Movies HD (2)
+#EXTGRP:English Movies
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:0,Star Movies HD (3)
+#EXTGRP:English Movies
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,Star Movies Select HD
+#EXTGRP:English Movies
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:0,Zee Cafe HD
+#EXTGRP:English Movies
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0,Ali TV
+#EXTGRP:Religious
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:0,Ahlulbayt TV
+#EXTGRP:Religious
+http://109.123.126.10:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:0,Al Dawah
+#EXTGRP:Religious
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
+#EXTINF:0,Agami TV
+#EXTGRP:Religious
+http://str24.l9574.com/510.stream/index.m3u8
+#EXTINF:0,ATN Islamic
+#EXTGRP:Religious
+http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
+#EXTINF:0,Ary QTV
+#EXTGRP:Religious
+https://streamer-1.toffeelive.com/mobile_hls/ary_qtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Dua Channel
+#EXTGRP:Religious
+https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
+#EXTINF:0,Madani TV
+#EXTGRP:Religious
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:0,Peace TV English
+#EXTGRP:Religious
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0,Peace Tv - Bangla
+#EXTGRP:Religious
+http://103.205.133.21/hls/peacetv.m3u8
+#EXTINF:0,Sunnah TV
+#EXTGRP:Religious
+https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Quran TV
+#EXTGRP:Religious
+https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Ten 1 HD
+#EXTGRP:UEFA Euro 2020
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:0,Sony Ten 2 SD
+#EXTGRP:UEFA Euro 2020
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Ten 2 HD
+#EXTGRP:UEFA Euro 2020
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:0,Sony Ten 2 HD (2)
+#EXTGRP:UEFA Euro 2020
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:0,Sony Ten 2 HD (3)
+#EXTGRP:UEFA Euro 2020
+http://89.41.180.253:8080/INDIA_SPORTS/TEN_2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Ten 3 HD
+#EXTGRP:UEFA Euro 2020
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Six HD
+#EXTGRP:UEFA Euro 2020
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:0,Sony SIX
+#EXTGRP:UEFA Euro 2020
+http://212.224.98.196:2200/R-EX/UEFA Euro 2020_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony SIX (2)
+#EXTGRP:UEFA Euro 2020
+http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:0,Sony SIX (3)
+#EXTGRP:UEFA Euro 2020
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:0,Sport TV 1
+#EXTGRP:UEFA Euro 2020
+http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8
+#EXTINF:0,Super Sports 4
+#EXTGRP:UEFA Euro 2020
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:UEFA Euro 2020
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0,UEFA Euro
+#EXTGRP:UEFA Euro 2020
+https://95-213-224-174.liveUEFA Euro 202024.online/uafootballua1.m3u8
+#EXTINF:0,AD Sports 1
+#EXTGRP:Sports
+http://103.213.238.70:80/ADSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:0,AD Sports 2
+#EXTGRP:Sports
+http://103.213.238.70:80/ADSPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bein Sports 1 MAX
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32701
+#EXTINF:0,Bein Sports 1 HD
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:0,Bein Sports 2 MAX
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32702
+#EXTINF:0,Bein Sports 2 HD
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:0,Bein Sports 3 MAX
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32703
+#EXTINF:0,Bein Sports 4 MAX
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32704
+#EXTINF:0,Bein Sports 4 HD
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:0,Bein Sports 5 MAX
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32705
+#EXTINF:0,Bein Sports 6 MAX
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32706
+#EXTINF:0,Bein Sports 7
+#EXTGRP:Sports
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/60
+#EXTINF:0,Dubai Sports 1
+#EXTGRP:Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:0,Dubai Sports 2
+#EXTGRP:Sports
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0,Dubai Sports 3
+#EXTGRP:Sports
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Sports
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0,ESPN ACCN
+#EXTGRP:Sports
+https://gma2.blab.email/acc.m3u8
+#EXTINF:0,ESPN FS2
+#EXTGRP:Sports
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0,ESPN SEC
+#EXTGRP:Sports
+https://gma2.blab.email/sec.m3u8
+#EXTINF:0,ESPN U
+#EXTGRP:Sports
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:0,Eurosports 1
+#EXTGRP:Sports
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w1245608484.m3u8
+#EXTINF:0,Eurosports 2
+#EXTGRP:Sports
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w622298732.m3u8
+#EXTINF:0,Gazi TV
+#EXTGRP:Sports
+http://103.213.238.70:80/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,PTV Sports
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:0,PTV Sports (2)
+#EXTGRP:Sports
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:0,PTV Sports (3)
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:0,Sports TV 1
+#EXTGRP:Sports
+http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Six HD (2)
+#EXTGRP:Sports
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:0,Sony Ten 1 HD (2)
+#EXTGRP:Sports
+http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:0,Sony Ten 3 SD
+#EXTGRP:Sports
+http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Sports 1 HD
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:0,Star Sports 1 HD Hindi
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:0,Star Sports 1 HD Hindi (2)
+#EXTGRP:Sports
+https://158.pkcast123.me:999/hls/zabTFpRMVg20210415.m3u8
+#EXTINF:0,Star Sports 1 SD
+#EXTGRP:Sports
+http://103.205.133.19/hls/chss1.m3u8
+#EXTINF:0,Star Sports 2
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:0,Star Sports 2 (2)
+#EXTGRP:Sports
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:0,Star Sports Select 1 HD
+#EXTGRP:Sports
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:0,Star Sports Select 1 HD (2)
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:0,Star Sports Select 2 HD
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:0,Super Sports 1
+#EXTGRP:Sports
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:0,Super Sports 2
+#EXTGRP:Sports
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:0,Super Sports 3
+#EXTGRP:Sports
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:0,Super Sports 5
+#EXTGRP:Sports
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:0,Super Sports 6
+#EXTGRP:Sports
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:0,Super Sports 7
+#EXTGRP:Sports
+http://93.157.62.180/Supersport7/index.m3u8
+#EXTINF:0,Sky Sports Cricket
+#EXTGRP:Sports
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Football
+#EXTGRP:Sports
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:0,T Sports
+#EXTGRP:Sports
+http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
+#EXTINF:0,T Sports (2)
+#EXTGRP:Sports
+http://103.106.243.163:8181//17/index.m3u8
+#EXTINF:0,Ten Cricket
+#EXTGRP:Sports
+http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:0,Willow HD
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:0,Willow SD
+#EXTGRP:Sports
+https://atc.hopto.org:443/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+#EXTINF:0,Willow SD (2)
+#EXTGRP:Sports
+https://158.pkcast123.me:999/hls/6k6bIiEf4320190929.m3u8
+#EXTINF:0,1HD Music
+#EXTGRP:Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0,9X Jalwa
+#EXTGRP:Music
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0,9X Jhakaas
+#EXTGRP:Music
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:0,9X Music
+#EXTGRP:Music
+http://103.205.133.19/hls/9xm.m3u8
+#EXTINF:0,9X Tashan
+#EXTGRP:Music
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
+#EXTINF:0,ATN Music
+#EXTGRP:Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:0,Boogle Bollywood
+#EXTGRP:Music
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+http://ztvuk.com:8080/harris/harris123/89349
+#EXTINF:0,Dhoom Music
+#EXTGRP:Music
+https://streamer-1.toffeelive.com/mobile_hls/dhoom_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,MTV
+#EXTGRP:Music
+https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,MTV HD+
+#EXTGRP:Music
+http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:0,MTV Beats HD
+#EXTGRP:Music
+https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Music India
+#EXTGRP:Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:0,RTV Music
+#EXTGRP:Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:0,Sangeet Bangla
+#EXTGRP:Music
+http://103.205.133.19/hls/sangeetbangla.m3u8
+#EXTINF:0,Sangeet Bangla (2)
+#EXTGRP:Music
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0,Zingg
+#EXTGRP:Music
+https://streamer-1.toffeelive.com/mobile_hls/zing_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Zoom
+#EXTGRP:Music
+http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:0,Akaram Kidz
+#EXTGRP:Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w1228562828.m3u8?nimblesessionid=681295982
+#EXTINF:0,Animax
+#EXTGRP:Kids
+http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
+#EXTINF:0,Aniplus
+#EXTGRP:Kids
+http://210.210.155.35/session/a052d55e-cdbe-11eb-a072-b38e91e92175/dr9445/h/h02/01.m3u8
+#EXTINF:0,Baby First
+#EXTGRP:Kids
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:Kids
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Kids
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:0,Cartoon Network English
+#EXTGRP:Kids
+http://103.205.133.19/hls/cn.m3u8
+#EXTINF:0,Cartoon Network Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Discovery Kids (2)
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Discovery Kids English
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/58dff2490495e58.m3u8
+#EXTINF:0,Discovery Kids Hindi
+#EXTGRP:Kids
+https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:0,Discovery Kids Hindi (2)
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f84280cdd1bbb6a.m3u8
+#EXTINF:0,Disney Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
+#EXTINF:0,Disney JR
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7aa459d024f16bb.m3u8
+#EXTINF:0,Duronto TV
+#EXTGRP:Kids
+http://103.49.168.171:8081/ebox/bd_duronto_tv/chunks.m3u8
+#EXTINF:0,Duronto TV (2)
+#EXTGRP:Kids
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+#EXTINF:0,EBS Kids
+#EXTGRP:Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
+#EXTINF:0,Hungama Tv Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c36fa382a5bf123.m3u8
+#EXTINF:0,Majed
+#EXTGRP:Kids
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0,MBC 3
+#EXTGRP:Kids
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
+#EXTINF:0,MBC 3 4K
+#EXTGRP:Kids
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:0,Mr Bean Show
+#EXTGRP:Kids
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:0,Nick
+#EXTGRP:Kids
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:0,Nick (2)
+#EXTGRP:Kids
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:0,Nick Bangla
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Nick HD+
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/3bbcc0021241b66.m3u8
+#EXTINF:0,Nick HD+ (2)
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Nick Junior
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Nick Junior Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/edc76fc8bbe047e.m3u8
+#EXTINF:0,Nick Junior (2)
+#EXTGRP:Kids
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:0,Nickelodeon Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/284ad1fec9855ca.m3u8
+#EXTINF:0,Pogo
+#EXTGRP:Kids
+http://starshare.live:8080/live/7383236789/2773376789/1918.m3u8
+#EXTINF:0,Pogo (2)
+#EXTGRP:Kids
+https://cutt.ly/1nmf6Br
+#EXTINF:0,Pogo Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bf25c45bfd4a2db.m3u8
+#EXTINF:0,Sonic Nickeloden
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sonic Nickeloden Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4415aa98f2f6f59.m3u8
+#EXTINF:0,Sony Yay
+#EXTGRP:Kids
+http://103.213.238.70:80/SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Yay Bangla (2)
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Yay Bangla
+#EXTGRP:Kids
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Yay Hindi
+#EXTGRP:Kids
+http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:0,Spacetoon
+#EXTGRP:Kids
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0,Wow Kids Hindi
+#EXTGRP:Kids
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2ff8dc4bdf8e0c4.m3u8
+#EXTINF:0,Radio Foorti (88.0)
+#EXTGRP:FM Radio
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF:0,Radio Amar (88.4)
+#EXTGRP:FM Radio
+http://118.179.215.45:8000/;stream/1
+#EXTINF:0,Bangladesh Betar (88.8)
+#EXTGRP:FM Radio
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:0,ABC Radio (89.2)
+#EXTGRP:FM Radio
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:0,Radio Today (89.6)
+#EXTGRP:FM Radio
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:0,Radio Dhoni (91.2)
+#EXTGRP:FM Radio
+http://182.160.110.180:1020/;stream.mp3
+#EXTINF:0,Radio Shadhin (92.4)
+#EXTGRP:FM Radio
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:0,Big FM (92.7)
+#EXTGRP:FM Radio
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:0,Jago FM (94.4)
+#EXTGRP:FM Radio
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:0,Spice FM (96.4)
+#EXTGRP:FM Radio
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+#EXTINF:0,Radio Mirchi (98.3)
+#EXTGRP:FM Radio
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:0,Radio Ekattor (98.4)
+#EXTGRP:FM Radio
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF:0,Colours FM (101.6)
+#EXTGRP:FM Radio
+http://45.64.135.88:8000/stream1
+#EXTINF:0,Boishakhi TV
+#EXTGRP:Toffee Server সবর চলব
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:0,Ekattor TV
+#EXTGRP:Toffee Server সবর চলব
+http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,MY TV
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/my_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Somoy TV
+#EXTGRP:Toffee Server সবর চলব
+http://103.213.238.70:80/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Akash Aath
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,DD Bangla
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Ruposhi Bangla
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/ruposhi__bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,News 24 India
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/news_24_india/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony Max 2
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Zee TV SD
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/Zee_TV/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Ary Music
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/ary_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Animal Planet
+#EXTGRP:Toffee Server সবর চলব
+http://103.213.238.70:80/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:0,Colors Ristey
+#EXTGRP:Toffee Server সবর চলব
+http://103.205.133.19/hls/chc.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Sony BBC Earth HD
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,TLC HD
+#EXTGRP:Toffee Server সবর চলব
+http://103.213.238.70:80/TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nick HD +
+#EXTGRP:Toffee Server সবর চলব
+https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Channel I
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.213.238.70:80/ChannelI/tracks-v1a1/mono.m3u8
+#EXTINF:0,Independent News
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream20.m3u8
+#EXTINF:0,Nagorik
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:0,Somoy
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream21.m3u8
+#EXTINF:0,Enterr 10 Bangla
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream26.m3u8
+#EXTINF:0,And Pictures HD
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:0,9XM
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream4.m3u8
+#EXTINF:0,Discovery Bangla HD
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream9.m3u8
+#EXTINF:0,National Geographic Bangla HD
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:0,Travel XP Bangla HD
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:0,Star Movies
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:0,Star Sports 2 HD
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:0,Al Jazeera
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.213.238.70:80/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:0,BBC World
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream36.m3u8
+#EXTINF:0,Macca
+#EXTGRP:SK Traders-BDIX সবর চলব ন
+http://103.81.104.118/hls/stream33.m3u8
+#EXTINF:0,Bangla Vision
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:0,RTV
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:0,News 24
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://103.213.238.70:80/News24/tracks-v1a1/mono.m3u8
+#EXTINF:0,DBC
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:0,Channel 9
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:0,Zee Bangla
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://103.205.133.19/hls/zeebangla.m3u8
+#EXTINF:0,Jalsha Movies
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:0,Star Gold
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:0,Sony ESPN
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:0,Sky Sports Mix
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:0,Bein Sports 1
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:0,Bein Sports 2
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:0,Bein Sports 4
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:0,Bein Sports
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
+#EXTINF:0,Star Sports 1 Hindi HD
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:0,Star Sports Sel 1 HD
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:0,Star Sports Sel 2 HD
+#EXTGRP:Ebox-BDIX সবর চলব ন
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:0,Banglavision
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/banglavision.m3u8
+#EXTINF:0,Boishakhi
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/boisakhi.m3u8
+#EXTINF:0,Deepto TV
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/DeeptoTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ekushey TV
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:0,Mohona TV
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,My TV
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,SATV
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/satv.m3u8
+#EXTINF:0,Nick Jr.
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
+#EXTINF:0,And Prive HD
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/&privatehd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bflix
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/Bflix/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dubai One
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/DubaiOne/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony TV
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/j-SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Pix
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:0,Sony SAB
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Jalsha
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:0,Star Plus
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:0,Zee Cinema
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,AD Sports 3
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/ADSPORTS3/tracks-v1a1/mono.m3u8
+#EXTINF:0,AD Sports 4
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/ADSPORTS4/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Six
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Ten 1
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Ten 2
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Ten 3
+#EXTGRP:Inspire-BDIX সবর চলব ন
+http://103.213.238.70:80/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Channel 24 BD
+#EXTGRP:Radiant-BDIX সবর চলব ন
+http://103.205.133.19/hls/channel24.m3u8
+#EXTINF:0,Gaan Bangla HD
+#EXTGRP:Radiant-BDIX সবর চলব ন
+http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF:0,My TV HD
+#EXTGRP:Radiant-BDIX সবর চলব ন
+http://103.205.133.19/hls/mytv.m3u8
+#EXTINF:0,And Picture
+#EXTGRP:Radiant-BDIX সবর চলব ন
+http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF:0,And TV
+#EXTGRP:Radiant-BDIX সবর চলব ন
+http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:0,Zee TV
+#EXTGRP:Radiant-BDIX সবর চলব ন
+http://103.205.133.19/hls/zeetv.m3u8
