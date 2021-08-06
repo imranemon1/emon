@@ -1,0 +1,104 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Radiant-BDIX (সবার চলবে না)", Asian TV
+http://103.205.133.19/hls/asiantv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Radiant-BDIX (সবার চলবে না)", Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Radiant-BDIX (সবার চলবে না)", Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Radiant-BDIX (সবার চলবে না)", Boishakhi
+http://103.205.133.19/hls/boisakhi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Radiant-BDIX (সবার চলবে না)", Channel I HD
+http://103.205.133.19/hls/ichannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Radiant-BDIX (সবার চলবে না)", Channel 9 HD
+http://103.205.133.19/hls/ninechannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Radiant-BDIX (সবার চলবে না)", Channel 24 BD
+http://103.205.133.19/hls/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Radiant-BDIX (সবার চলবে না)", DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Radiant-BDIX (সবার চলবে না)", Deepto TV HD
+http://103.205.133.19/hls/deeptotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Radiant-BDIX (সবার চলবে না)", Desh TV
+http://103.205.133.19/hls/deshtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Radiant-BDIX (সবার চলবে না)", Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Radiant-BDIX (সবার চলবে না)", Gaan Bangla HD
+http://103.205.133.19/hls/gaanbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Radiant-BDIX (সবার চলবে না)", Jamuna TV
+http://103.205.133.19/hls/jamunatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Radiant-BDIX (সবার চলবে না)", Mohona TV HD
+http://103.205.133.19/hls/mohonatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Radiant-BDIX (সবার চলবে না)", My TV HD
+http://103.205.133.19/hls/mytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Radiant-BDIX (সবার চলবে না)", Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Radiant-BDIX (সবার চলবে না)", News 24 HD
+http://103.205.133.19/hls/news24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Radiant-BDIX (সবার চলবে না)", NTV BD
+http://103.205.133.19/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Radiant-BDIX (সবার চলবে না)", RTV
+http://103.205.133.19/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Radiant-BDIX (সবার চলবে না)", SATV
+http://103.205.133.19/hls/satv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Radiant-BDIX (সবার চলবে না)", Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Radiant-BDIX (সবার চলবে না)", Zee Bangla
+http://103.205.133.19/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Radiant-BDIX (সবার চলবে না)", And Picture
+http://103.205.133.19/hls/andpicture.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Radiant-BDIX (সবার চলবে না)", And TV
+http://103.205.133.19/hls/andtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Radiant-BDIX (সবার চলবে না)", Colors Ristey
+http://103.205.133.19/hls/chc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Radiant-BDIX (সবার চলবে না)", ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Radiant-BDIX (সবার চলবে না)", Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Radiant-BDIX (সবার চলবে না)", Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Radiant-BDIX (সবার চলবে না)", Boishakhi
+http://103.205.133.19/hls/boisakhi.m3u8
+
