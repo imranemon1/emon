@@ -133,6 +133,4 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/otxB5",Sports
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/arwO6",Nasa TV
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-http://188.241.219.62/live/TT231z8Uic/Z7ncdqUmMQ/1856.m3u8?token=ShJcU0BbQQNHClUJAFUDWFhWAVJRVFJUAFZVAlAHAQYDVgBWCgpaX1wbGBpEF0dcWF1vWQIXXlAJV1QbRxFAV0NvXVYRCUEKVgsCCQ9BGRtNWV1VRA9UTRMSC1NHXhEDBQgEBwYRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhABBVMPRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAloJUgoNDxUe
+http://113.212.111.246:8080/hls/col12.m3u8
