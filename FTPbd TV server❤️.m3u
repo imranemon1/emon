@@ -1,0 +1,152 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS", T Sports HD
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS", GTV HD
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS", Star SPORTS 1 HD
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS", Star SPORTS 1 HD
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrA886OiwejHwcSH6MNpLgtjdpJPdlPphsw&usqp=CAU" group-title="SPORTS", Star SPORTS 2 HD
+http://test-otv2.ftpbd.net/streams/121/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/sports 18.png" group-title="SPORTS", Sports 18 1 HD
+http://test-otv2.ftpbd.net/streams/107/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Sony Sports 1.png" group-title="SPORTS", Sony Ten 1 HD
+http://test-otv2.ftpbd.net/streams/111/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Sony Sports 2.png" group-title="SPORTS", Sony Ten 2 HD
+http://test-otv2.ftpbd.net/streams/109/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Sony TEN 3.jpg" group-title="SPORTS", Sony Ten 3 HD
+http://test-otv2.ftpbd.net/streams/122/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/sssd-1.jpg" group-title="SPORTS", Star SPORTS SL 1 HD
+http://otv.ftpbd.net:8082/Star-Select-1-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/sss 2 hd.png" group-title="SPORTS",	Star SPORTS SL 2 HD
+http://otv.ftpbd.net:8082/Star-Select-2-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/TnT-Sports-1.jpg" group-title="SPORTS", TNT SPORTS 1 HD
+http://otv.ftpbd.net:8082/TnT-Sports-1-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/adsports1.png" group-title="SPORTS", AD SPORTS 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/adsports2.png" group-title="SPORTS", AD SPORTS 1 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGsSGSwDinGoXy_XXtUJ546ZSzk7klx8UFUQ&usqp=CAU" group-title="SPORTS", Willow HD
+http://otv.ftpbd.net:8082/Willow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yv31UR1nrCXI4sgdodDybTF0gja8shKaRA&usqp=CAU" group-title="SPORTS", Super SPORTS Cricket  HD
+http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/National Geography1664975151.png" group-title="INFOTAINMENT", National Geo HD
+http://otv.ftpbd.net:8082/National-Geographic-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Discovery1664975007.png" group-title="INFOTAINMENT", Discovery HD
+http://otv.ftpbd.net:8082/Discovery-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJXxXbwrsic_4qyB66V40Ue0XVs3znppngQ&usqp=CAU" group-title="INFOTAINMENT", Wild HD
+http://otv.ftpbd.net:8082/Wild-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Nick HD1664976992.png" group-title="Kids", Nick Jr
+http://otv.ftpbd.net:8082/Nick-Jr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Nick HD1664976992.png" group-title="Kids", BBC Cbee HD
+http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Nick HD1664976992.png" group-title="Kids", Duronto TV HD
+http://otv.ftpbd.net:8082/Duronto-Tv-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/zee bangla.jpg" group-title="Bangla", ZEE Bangla HD
+http://test-otv2.ftpbd.net/streams/119/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/enterr10.jpg" group-title="Bangla", Enter10 Bangla
+http://test-otv2.ftpbd.net/streams/123/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Sony Aath.png" group-title="Bangla", Sony Aath
+http://test-otv2.ftpbd.net/streams/117/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Bangladesh Television.png" group-title="Bangla", BTV
+http://test-otv2.ftpbd.net/streams/106/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Massranga-logo.jpg" group-title="Bangla", Massranga HD
+http://test-otv2.ftpbd.net/streams/127/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Colors bangla hd.jpg" group-title="Bangla", Colors Bangla HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Colors Asia.png" group-title="Bangla", Colors Asia
+http://otv.ftpbd.net:8082/Colors-Asia-SD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/deepto tv.jpg" group-title="Bangla", Deepto TV
+http://otv.ftpbd.net:8082/Deepto-Tv-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/channel 24.png" group-title="Bangla", Channel 24 HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Channel i.png" group-title="Bangla", Channel I
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Jamuna TV.jpg" group-title="Bangla", Jamuna Tv
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/Rtv.png" group-title="Bangla", RTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/somoy tv.jpg" group-title="Bangla", Somoy TV HD
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/dbc news.png" group-title="Bangla", DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/asian tv.png" group-title="Bangla", Asian TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/ATN bangla.png" group-title="Bangla", ATN Bangla 
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/banglavision tv.png" group-title="Bangla", Banglavision TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/boishakhi tv.png" group-title="Bangla", Boishakhi TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://test-otv2.ftpbd.net/img/71tv.png" group-title="Bangla", Ekattor TV HD
+http://test-otv2.ftpbd.net/streams/120/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Sony Entertainment1667728144.png" group-title="Hindi", Sony Entertainment HD
+http://otv.ftpbd.net:8082/Sony-Entertainment/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Sony SAB1681564997.png" group-title="Hindi", Sony Sab HD
+http://otv.ftpbd.net:8082/Sony-Sab-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Sony Max HD1667728133.png" group-title="Hindi", Sony Max HD
+http://otv.ftpbd.net:8082/Set-Max-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Star Gold1667751269.png" group-title="Hindi", Star Gold HD
+http://otv.ftpbd.net:8082/And-Prive-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi", Ekattor TV HD
+http://otv.ftpbd.net:8082/Colors-Cineplex-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/And Picture1664973301.png" group-title="Hindi", &Picturs HD
+http://otv.ftpbd.net:8082/And-Pictures-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="English", Cinema World HD
+http://otv.ftpbd.net:8082/Star-Gold-Select-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/Star Movies1667751377.png" group-title="English", Star Movies HD
+http://otv.ftpbd.net:8082/Star-Movies-Select-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQP2lkAgClfAi7Djl__0s5QFX0gGOtOqBhQ&usqp=CAU" group-title="English", HBO HD
+http://otv.ftpbd.net:8082/Hbo-HD/tracks-v1a1/mono.m3u8
